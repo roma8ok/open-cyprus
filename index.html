@@ -3,9 +3,93 @@
   <head>
     <meta charset="UTF-8" />
     <meta name="viewport" content="width=device-width, initial-scale=1.0" />
-    <title>Hello</title>
+    <link
+      href="https://fonts.googleapis.com/css2?family=Roboto:ital,wght@0,100;0,300;0,400;0,500;0,700;0,900;1,100;1,300;1,400;1,500;1,700;1,900&display=swap"
+      rel="stylesheet"
+    />
+    <link
+      rel="stylesheet"
+      href="https://unpkg.com/leaflet@1.9.4/dist/leaflet.css"
+      integrity="sha256-p4NxAoJBhIIN+hmNHrzRCf9tD/miZyoHS5obTRR9BMY="
+      crossorigin=""
+    />
+    <script
+      src="https://unpkg.com/leaflet@1.9.4/dist/leaflet.js"
+      integrity="sha256-20nQCchB9co0qIjJZRGuk2/Z9VM+kNiyxNV1lvTlZBo="
+      crossorigin=""
+    ></script>
+    <link rel="stylesheet" href="style.css" />
+    <script
+      defer
+      data-domain="opencyprus.info"
+      src="https://plausible.io/js/script.js"
+    ></script>
+    <title>Cyprus</title>
   </head>
   <body>
-    <h1>Hello World 2</h1>
+    <div id="map"></div>
+    <div id="place-info" class="place-info">
+      <div class="place-info-header">
+        <div id="place-name" class="text_bold"></div>
+        <div id="place-labels" class="place-labels"></div>
+      </div>
+      <div id="place-description" class="text_normal"></div>
+    </div>
+    <div class="filter-container">
+      <div class="filter-block">
+        <div id="filter-popular" class="filter-item">🔝</div>
+      </div>
+      <div class="filter-block">
+        <div id="filter-free" class="filter-item">🆓</div>
+      </div>
+      <div class="filter-block">
+        <div id="filter-virtual-tour" class="filter-item">🎥</div>
+        <div id="filter-audio-guide" class="filter-item">🔊</div>
+      </div>
+      <div class="filter-block">
+        <div id="filter-reset" class="filter-reset filter-item">❌</div>
+      </div>
+    </div>
+    <div class="place-info-container">
+      <a id="place-info-web-link" href="" target="_blank">
+        <div id="place-info-web" class="place-info-item">🌐</div>
+      </a>
+      <a id="place-info-virtual-tour-link" href="" target="_blank">
+        <div id="place-info-virtual-tour" class="place-info-item">🎥</div>
+      </a>
+      <a id="place-info-audio-guide-link" href="" target="_blank">
+        <div id="place-info-audio-guide" class="place-info-item">🔊</div>
+      </a>
+      <a id="place-info-google-maps-link" href="" target="_blank">
+        <div id="place-info-google-maps" class="place-info-item">🌍</div>
+      </a>
+      <div id="place-info-share" class="place-info-item">🔗</div>
+      <div id="place-info-share-message" class="place-info-share-message">
+        Link copied
+      </div>
+    </div>
+    <div class="developer-container">
+      <div class="developer">
+        <div>Roman Iakimenok</div>
+        <div class="developer-icons">
+          <div class="developer-icon">
+            <a href="https://www.linkedin.com/in/roma8ok" target="_blank">
+              <img src="icons/linkedin.png" width="24" height="24" />
+            </a>
+          </div>
+          <div class="developer-icon">
+            <a href="https://t.me/roma8ok" target="_blank">
+              <img src="icons/telegram.png" width="24" height="24" />
+            </a>
+          </div>
+          <div class="developer-icon">
+            <a href="https://github.com/roma8ok/open-cyprus" target="_blank">
+              <img src="icons/github.png" width="24" height="24" />
+            </a>
+          </div>
+        </div>
+      </div>
+    </div>
   </body>
+  <script type="module" src="main.js?v=0.01"></script>
 </html>

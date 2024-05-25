@@ -1,0 +1,15 @@
+export const PlaceInfo = "place-info";
+export const PlaceName = "place-name";
+export const PlaceLabels = "place-labels";
+export const PlaceDescription = "place-description";
+export const Map = "map";
+export const PlaceInfoShare = "place-info-share";
+export const PlaceInfoShareMessage = "place-info-share-message";
+export const PlaceInfoGoogleMaps = "place-info-google-maps";
+export const PlaceInfoGoogleMapsLink = "place-info-google-maps-link";
+export const PlaceInfoAudioGuide = "place-info-audio-guide";
+export const PlaceInfoAudioGuideLink = "place-info-audio-guide-link";
+export const PlaceInfoVirtualTour = "place-info-virtual-tour";
+export const PlaceInfoVirtualTourLink = "place-info-virtual-tour-link";
+export const PlaceInfoWeb = "place-info-web";
+export const PlaceInfoWebLink = "place-info-web-link";
