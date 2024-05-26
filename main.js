@@ -88,6 +88,8 @@ function placeOnClick(placeName) {
         webLink = place.links.visitCyprus;
       } else if (place.links.site) {
         webLink = place.links.site;
+      } else if (place.links.wikipedia) {
+        webLink = place.links.wikipedia;
       }
       let webDisplay = "none";
       if (webLink) {

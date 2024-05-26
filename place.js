@@ -25,6 +25,7 @@ const Places = {
       visitCyprus:
         "https://www.visitcyprus.com/index.php/en/discovercyprus/culture/sites-monuments/250-birthplace-of-aphrodite-petra-tou-romiou?cur_lang=en-GB",
       departmentOfAntiquities: "",
+      wikipedia: "",
       audioGuide:
         "https://www.visitcyprus.com/index.php/en/discovercyprus/culture/audio-guides/148-petra-tou-romiou-audio-guide",
       site: "",
@@ -49,6 +50,7 @@ const Places = {
         "https://www.visitcyprus.com/index.php/en/discovercyprus/culture/sites-monuments/239-archaeological-park-of-kato-pafos-paphos?cur_lang=en-GB",
       departmentOfAntiquities:
         "http://www.culture.gov.cy/dmculture/da/da.nsf/All/59FFC9310818070EC225719B003A2EB8?OpenDocument",
+      wikipedia: "",
       audioGuide:
         "https://www.visitcyprus.com/index.php/en/discovercyprus/culture/audio-guides/128-archaeological-park-of-paphos-audio-guide",
       site: "",
@@ -75,6 +77,7 @@ const Places = {
         "https://www.visitcyprus.com/index.php/en/discovercyprus/culture/sites-monuments/253-tombs-of-the-kings?cur_lang=en-GB",
       departmentOfAntiquities:
         "http://www.culture.gov.cy/dmculture/DA/DA.nsf/All/238DE8D409BF6077C225719B0039F785?OpenDocument",
+      wikipedia: "",
       audioGuide:
         "https://www.visitcyprus.com/index.php/en/discovercyprus/culture/audio-guides/153-tombs-of-the-kings-audio-guide",
       site: "",
@@ -99,6 +102,7 @@ const Places = {
         "https://www.visitcyprus.com/index.php/en/discovercyprus/culture/sites-monuments/170-agios-lazaros-church?cur_lang=en-GB",
       departmentOfAntiquities:
         "http://www.culture.gov.cy/dmculture/DA/DA.nsf/All/8A2AB44D662B5553C225719900325B15?OpenDocument",
+      wikipedia: "",
       audioGuide:
         "https://www.visitcyprus.com/index.php/en/discovercyprus/culture/audio-guides/126-agios-lazaros-church-and-ecclesiastical-museum-audio-guide",
       site: "https://www.agioslazaros.org",
@@ -123,6 +127,7 @@ const Places = {
         "https://www.visitcyprus.com/index.php/en/discovercyprus/culture/sites-monuments/221-kourion-archaeological-site?cur_lang=en-GB",
       departmentOfAntiquities:
         "http://www.culture.gov.cy/dmculture/da/da.nsf/All/CB2E60AEDED0A248C225719B0038B505?OpenDocument",
+      wikipedia: "",
       audioGuide:
         "https://www.visitcyprus.com/index.php/en/discovercyprus/culture/audio-guides/129-archaeological-site-of-kourion-audio-guide",
       site: "",
@@ -146,6 +151,8 @@ const Places = {
       visitCyprus:
         "https://www.visitcyprus.com/index.php/en/discovercyprus/culture/sites-monuments/263-kykkos-monastery?cur_lang=en-GB",
       departmentOfAntiquities: "",
+      wikipedia: "",
+      wikipedia: "",
       audioGuide:
         "https://www.visitcyprus.com/index.php/en/discovercyprus/culture/audio-guides/145-monastery-of-kykkos-audio-guide",
       site: "",
@@ -170,6 +177,7 @@ const Places = {
         "https://www.visitcyprus.com/index.php/en/discovercyprus/culture/sites-monuments/245-pafos-paphos-castle?cur_lang=en-GB",
       departmentOfAntiquities:
         "http://www.culture.gov.cy/dmculture/DA/DA.nsf/All/D3F770E201E1C528C225719900330DD6?OpenDocument",
+      wikipedia: "",
       audioGuide:
         "https://www.visitcyprus.com/index.php/en/discovercyprus/culture/audio-guides/141-medieval-castle-of-paphos-audio-guide",
       site: "",
@@ -194,6 +202,7 @@ const Places = {
         "https://www.visitcyprus.com/index.php/en/discovercyprus/culture/sites-monuments/223-lemesos-limassol-medieval-castle?cur_lang=en-GB",
       departmentOfAntiquities:
         "http://www.culture.gov.cy/dmculture/DA/DA.nsf/All/5A9D613873FBB2DFC22571990020A1C0?OpenDocument",
+      wikipedia: "",
       audioGuide: "",
       site: "",
       virtualTour: "https://limassol-castle.inventus.com.cy",
@@ -217,6 +226,7 @@ const Places = {
         "https://www.visitcyprus.com/index.php/en/discovercyprus/culture/sites-monuments/175-hala-sultan-tekke?cur_lang=en-GB",
       departmentOfAntiquities:
         "http://www.culture.gov.cy/dmculture/da/da.nsf/All/18513FF955C9F917C225719900332619?OpenDocument",
+      wikipedia: "",
       audioGuide:
         "https://www.visitcyprus.com/index.php/en/discovercyprus/culture/audio-guides/138-hala-sultan-tekke-larnaka-audio-guide",
       site: "",
@@ -241,6 +251,7 @@ const Places = {
         "https://www.visitcyprus.com/index.php/en/discovercyprus/culture/sites-monuments/220-kolossi-medieval-castle?cur_lang=en-GB",
       departmentOfAntiquities:
         "http://www.culture.gov.cy/dmculture/DA/DA.nsf/All/715C0A5218C174DFC225719900331A09?OpenDocument",
+      wikipedia: "",
       audioGuide:
         "https://www.visitcyprus.com/index.php/en/discovercyprus/culture/audio-guides/139-kolossi-medieval-castle-audio-guide",
       site: "",
@@ -264,6 +275,7 @@ const Places = {
       visitCyprus:
         "https://www.visitcyprus.com/index.php/en/discovercyprus/culture/sites-monuments/240-baths-of-aphrodite?cur_lang=en-GB",
       departmentOfAntiquities: "",
+      wikipedia: "",
       audioGuide:
         "https://www.visitcyprus.com/index.php/en/discovercyprus/culture/audio-guides/130-baths-of-aphrodite-audio-guide",
       site: "",
@@ -288,6 +300,7 @@ const Places = {
         "https://www.visitcyprus.com/index.php/en/discovercyprus/culture/sites-monuments/178-larnaka-larnaca-medieval-castle?cur_lang=en-GB",
       departmentOfAntiquities:
         "http://www.culture.gov.cy/dmculture/DA/DA.nsf/All/6613643713C00AF9C22571990032F91F?OpenDocument",
+      wikipedia: "",
       audioGuide: "",
       site: "",
       virtualTour: "",
@@ -311,6 +324,7 @@ const Places = {
         "https://www.visitcyprus.com/index.php/en/discovercyprus/culture/sites-monuments/238-agios-neophytos-monastery?cur_lang=en-GB",
       departmentOfAntiquities:
         "http://www.culture.gov.cy/dmculture/DA/DA.nsf/All/D9ACC92F868EF3AEC2257199003296EF?OpenDocument",
+      wikipedia: "",
       audioGuide:
         "https://www.visitcyprus.com/index.php/en/discovercyprus/culture/audio-guides/142-monastery-of-agios-neophytos-audio-guide",
       site: "",
@@ -335,6 +349,7 @@ const Places = {
         "https://www.visitcyprus.com/index.php/en/discovercyprus/culture/museums-galleries/113-cyprus-museum?cur_lang=en-GB",
       departmentOfAntiquities:
         "http://www.culture.gov.cy/dmculture/da/da.nsf/All/67084F17382CF201C2257199001FE4AD?OpenDocument",
+      wikipedia: "",
       audioGuide:
         "https://www.visitcyprus.com/index.php/en/discovercyprus/culture/audio-guides/152-the-cyprus-museum-audio-guide",
       site: "",
@@ -359,6 +374,7 @@ const Places = {
         "https://www.visitcyprus.com/index.php/en/discovercyprus/culture/sites-monuments/174-choirokoitia-archaeological-site-neolithic-settlement?&cur_lang=en-GB",
       departmentOfAntiquities:
         "http://www.culture.gov.cy/dmculture/DA/DA.nsf/All/C8EA2288088D1EB042257A7800241510?OpenDocument",
+      wikipedia: "",
       audioGuide:
         "https://www.visitcyprus.com/index.php/en/discovercyprus/culture/audio-guides/132-choirokoitia-neolithic-settlement-audio-guide",
       site: "",
@@ -382,6 +398,7 @@ const Places = {
       visitCyprus:
         "https://www.visitcyprus.com/index.php/en/discovercyprus/culture/sites-monuments/188-kamares-aqueduct?cur_lang=en-GB",
       departmentOfAntiquities: "",
+      wikipedia: "",
       audioGuide: "",
       site: "",
       virtualTour: "",
@@ -404,6 +421,7 @@ const Places = {
       visitCyprus:
         "https://www.visitcyprus.com/index.php/en/discovercyprus/culture/sites-monuments/165-agia-napa-monastery?cur_lang=en-GB",
       departmentOfAntiquities: "",
+      wikipedia: "",
       audioGuide:
         "https://www.visitcyprus.com/index.php/en/discovercyprus/culture/audio-guides/124-agia-napa-monastery-audio-guide",
       site: "",
@@ -427,6 +445,7 @@ const Places = {
       visitCyprus:
         "https://www.visitcyprus.com/index.php/en/discovercyprus/culture/sites-monuments/254-early-christian-basilica-st-paul-s-pillar-chrysopolitissa-agia-kyriaki-church?cur_lang=en-GB",
       departmentOfAntiquities: "",
+      wikipedia: "",
       audioGuide: "",
       site: "",
       virtualTour: "",
@@ -449,6 +468,7 @@ const Places = {
       visitCyprus:
         "https://www.visitcyprus.com/index.php/en/discovercyprus/culture/sites-monuments/264-machairas-monastery?cur_lang=en-GB",
       departmentOfAntiquities: "",
+      wikipedia: "",
       audioGuide:
         "https://www.visitcyprus.com/index.php/en/discovercyprus/culture/audio-guides/143-monastery-of-panagia-tou-machaira-audio-guide",
       site: "https://machairas.cy",
@@ -473,6 +493,7 @@ const Places = {
         "https://www.visitcyprus.com/index.php/en/discovercyprus/culture/sites-monuments/217-amathous-archaeological-site?cur_lang=en-GB",
       departmentOfAntiquities:
         "http://www.culture.gov.cy/dmculture/DA/DA.nsf/All/D20ED526826AB796C225719B00374A92?OpenDocument",
+      wikipedia: "",
       audioGuide: "",
       site: "",
       virtualTour: "",
@@ -495,6 +516,7 @@ const Places = {
       visitCyprus:
         "https://www.visitcyprus.com/index.php/en/discovercyprus/culture/sites-monuments/180-stavrovouni-monastery?cur_lang=en-GB",
       departmentOfAntiquities: "",
+      wikipedia: "",
       audioGuide: "",
       site: "",
       virtualTour: "",
@@ -518,6 +540,7 @@ const Places = {
         "https://www.visitcyprus.com/index.php/en/discovercyprus/culture/sites-monuments/247-palaipafos-kouklia-archaeological-site?cur_lang=en-GB",
       departmentOfAntiquities:
         "http://www.culture.gov.cy/dmculture/DA/DA.nsf/All/81C8FB61069022D242257A78002452DA?OpenDocument",
+      wikipedia: "",
       audioGuide:
         "https://www.visitcyprus.com/index.php/en/discovercyprus/culture/audio-guides/140-kouklia-palaipafos-audio-guide",
       site: "",
@@ -542,6 +565,7 @@ const Places = {
         "https://www.visitcyprus.com/index.php/en/discovercyprus/culture/sites-monuments/172-angeloktisti-church?cur_lang=en-GB",
       departmentOfAntiquities:
         "http://www.culture.gov.cy/dmculture/DA/DA.nsf/All/627DE5BD219220E8C22571990032B9D8?OpenDocument",
+      wikipedia: "",
       audioGuide: "",
       site: "",
       virtualTour: "",
@@ -564,6 +588,7 @@ const Places = {
       visitCyprus:
         "https://www.visitcyprus.com/index.php/en/discovercyprus/culture/sites-monuments/241-chrysorrogiatissa-monastery?cur_lang=en-GB",
       departmentOfAntiquities: "",
+      wikipedia: "",
       audioGuide: "",
       site: "",
       virtualTour: "",
@@ -586,6 +611,7 @@ const Places = {
       visitCyprus:
         "https://www.visitcyprus.com/index.php/en/discovercyprus/culture/museums-galleries/98-thalassa-agia-napa-municipal-museum?cur_lang=en-GB",
       departmentOfAntiquities: "",
+      wikipedia: "",
       audioGuide: "",
       site: "https://thalassamuseum.org.cy",
       virtualTour: "",
@@ -608,6 +634,7 @@ const Places = {
       visitCyprus:
         "https://www.visitcyprus.com/index.php/en/discovercyprus/culture/museums-galleries/137-cyprus-historic-and-classic-motor-museum?cur_lang=en-GB",
       departmentOfAntiquities: "",
+      wikipedia: "",
       audioGuide: "",
       site: "https://cyprusmotormuseum.com.cy",
       virtualTour: "",
@@ -630,6 +657,7 @@ const Places = {
       visitCyprus:
         "https://www.visitcyprus.com/index.php/en/discovercyprus/culture/sites-monuments/271-trooditissa-monastery?cur_lang=en-GB",
       departmentOfAntiquities: "",
+      wikipedia: "",
       audioGuide: "",
       site: "",
 
@@ -653,6 +681,7 @@ const Places = {
       visitCyprus:
         "https://www.visitcyprus.com/index.php/en/discovercyprus/culture/sites-monuments/236-agia-solomoni-christian-catacomb?cur_lang=en-GB",
       departmentOfAntiquities: "",
+      wikipedia: "",
       audioGuide: "",
       site: "",
       virtualTour: "",
@@ -675,6 +704,7 @@ const Places = {
       visitCyprus:
         "https://www.visitcyprus.com/index.php/en/discovercyprus/culture/sites-monuments/231-agia-napa-church-lemesos-limassol?cur_lang=en-GB",
       departmentOfAntiquities: "",
+      wikipedia: "",
       audioGuide: "",
       site: "",
       virtualTour: "",
@@ -697,6 +727,7 @@ const Places = {
       visitCyprus:
         "https://www.visitcyprus.com/index.php/en/discovercyprus/culture/sites-monuments/216-agios-nikolaos-ton-gaton-convent-st-nicholas-of-the-cats-convent?cur_lang=en-GB",
       departmentOfAntiquities: "",
+      wikipedia: "",
       audioGuide: "",
       site: "",
       virtualTour: "",
@@ -719,6 +750,7 @@ const Places = {
       visitCyprus:
         "https://www.visitcyprus.com/index.php/en/discovercyprus/culture/museums-galleries/129-cyprus-classic-motorcycle-museum?cur_lang=en-GB",
       departmentOfAntiquities: "",
+      wikipedia: "",
       audioGuide: "",
       site: "https://cyclassicmotormuseum.wixsite.com/cyclassicmotormuseum",
       virtualTour: "",
@@ -742,6 +774,7 @@ const Places = {
         "https://www.visitcyprus.com/index.php/en/discovercyprus/culture/museums-galleries/156-archaeological-museum-of-the-pafos-paphos-district?cur_lang=en-GB",
       departmentOfAntiquities:
         "http://www.culture.gov.cy/dmculture/DA/DA.nsf/All/306F2D157B5C878FC225719900205580?OpenDocument",
+      wikipedia: "",
       audioGuide: "",
       site: "",
       virtualTour: "",
@@ -765,6 +798,7 @@ const Places = {
         "https://www.visitcyprus.com/index.php/en/discovercyprus/culture/sites-monuments/258-agios-ioannis-lampadistis-church?cur_lang=en-GB",
       departmentOfAntiquities:
         "http://www.culture.gov.cy/dmculture/DA/DA.nsf/All/B842781146DBC6A9C225719900320552?OpenDocument",
+      wikipedia: "",
       audioGuide:
         "https://www.visitcyprus.com/index.php/en/discovercyprus/culture/audio-guides/144-monastery-of-agios-ioannis-lampadistis-audio-guide",
       site: "",
@@ -788,6 +822,7 @@ const Places = {
       visitCyprus:
         "https://www.visitcyprus.com/index.php/en/discovercyprus/culture/museums-galleries/130-leventis-municipal-museum-of-lefkosia-nicosia?cur_lang=en-GB",
       departmentOfAntiquities: "",
+      wikipedia: "",
       audioGuide: "",
       site: "https://leventismuseum.org.cy",
       virtualTour: "",
@@ -810,6 +845,7 @@ const Places = {
       visitCyprus:
         "https://www.visitcyprus.com/index.php/en/discovercyprus/culture/sites-monuments/226-sanctuary-of-apollon-hylates?cur_lang=en-GB",
       departmentOfAntiquities: "",
+      wikipedia: "",
       audioGuide: "",
       site: "",
       virtualTour: "",
@@ -833,6 +869,7 @@ const Places = {
         "https://www.visitcyprus.com/index.php/en/discovercyprus/culture/sites-monuments/265-panagia-asinou-church?cur_lang=en-GB",
       departmentOfAntiquities:
         "http://www.culture.gov.cy/dmculture/DA/DA.nsf/All/8D900C402399C25242257A7800334E91?OpenDocument",
+      wikipedia: "",
       audioGuide:
         "https://www.visitcyprus.com/index.php/en/discovercyprus/culture/audio-guides/135-church-of-panagia-tis-asinou-or-panagia-phorviotissa-audio-guide",
       site: "",
@@ -856,6 +893,7 @@ const Places = {
       visitCyprus:
         "https://www.visitcyprus.com/index.php/en/discovercyprus/culture/museums-galleries/140-the-cyprus-wine-museum?cur_lang=en-GB",
       departmentOfAntiquities: "",
+      wikipedia: "",
       audioGuide: "",
       site: "https://www.cypruswinemuseum.com",
       virtualTour: "",
@@ -878,6 +916,7 @@ const Places = {
       visitCyprus:
         "https://www.visitcyprus.com/index.php/en/discovercyprus/culture/sites-monuments/229-agios-georgios-alamanos-convent?cur_lang=en-GB",
       departmentOfAntiquities: "",
+      wikipedia: "",
       audioGuide: "",
       site: "",
       virtualTour: "",
@@ -900,6 +939,7 @@ const Places = {
       visitCyprus: "",
       departmentOfAntiquities:
         "http://www.culture.gov.cy/dmculture/DA/DA.nsf/All/29D729EB7E4EE76FC2257199002074B8?OpenDocument",
+      wikipedia: "",
       audioGuide: "",
       site: "",
       virtualTour: "",
@@ -923,6 +963,7 @@ const Places = {
         "https://www.visitcyprus.com/index.php/en/discovercyprus/culture/sites-monuments/177-kition-archaeological-site?cur_lang=en-GB",
       departmentOfAntiquities:
         "http://www.culture.gov.cy/dmculture/DA/DA.nsf/All/7A7351CF22898DFEC22571A4002CA21C?OpenDocument",
+      wikipedia: "",
       audioGuide: "",
       site: "",
       virtualTour: "",
@@ -947,6 +988,7 @@ const Places = {
           "https://www.visitcyprus.com/index.php/en/discovercyprus/culture/sites-monuments/259-agios-nikolaos-tis-stegis-church?cur_lang=en-GB",
         departmentOfAntiquities:
           "http://www.culture.gov.cy/dmculture/DA/DA.nsf/All/9DF6B7E6FE549F1BC225719900314934?OpenDocument",
+        wikipedia: "",
         audioGuide:
           "https://www.visitcyprus.com/index.php/en/discovercyprus/culture/audio-guides/127-agios-nikolaos-tis-stegis-audio-guide",
         site: "",
@@ -971,6 +1013,7 @@ const Places = {
         "https://www.visitcyprus.com/index.php/en/discovercyprus/culture/sites-monuments/235-agia-paraskevi-byzantine-church-geroskipou-village?cur_lang=en-GB",
       departmentOfAntiquities:
         "http://www.culture.gov.cy/dmculture/DA/DA.nsf/All/F02B680AF8F805B7C22571990032872C?OpenDocument",
+      wikipedia: "",
       audioGuide: "",
       site: "",
       virtualTour: "",
@@ -994,6 +1037,7 @@ const Places = {
         "https://www.visitcyprus.com/index.php/en/discovercyprus/culture/museums-galleries/204-the-house-of-hatzigeorgakis-kornesios-ethnological-museum?cur_lang=en-GB",
       departmentOfAntiquities:
         "http://www.culture.gov.cy/dmculture/da/da.nsf/All/3F038862C758F056C225719900214B07?OpenDocument",
+      wikipedia: "",
       audioGuide:
         "https://www.visitcyprus.com/index.php/en/discovercyprus/culture/audio-guides/137-hadjigeorgakis-kornesios-mansion-audio-guide",
       site: "",
@@ -1018,6 +1062,7 @@ const Places = {
       visitCyprus: "",
       departmentOfAntiquities:
         "http://www.culture.gov.cy/dmculture/DA/DA.nsf/All/969DA3E3446EF4C3C225719B003BF3AB?OpenDocument",
+      wikipedia: "",
       audioGuide: "",
       site: "",
       virtualTour: "",
@@ -1041,6 +1086,7 @@ const Places = {
         "https://www.visitcyprus.com/index.php/en/discovercyprus/culture/sites-monuments/260-archangelos-michael-church?cur_lang=en-GB",
       departmentOfAntiquities:
         "http://www.culture.gov.cy/dmculture/DA/DA.nsf/All/841B01BB932B5AC6C225719900322BDA?OpenDocument",
+      wikipedia: "",
       audioGuide:
         "https://www.visitcyprus.com/index.php/en/discovercyprus/culture/audio-guides/133-church-of-archangelos-michael-in-pedoulas-audio-guide",
       site: "",
@@ -1064,6 +1110,7 @@ const Places = {
       visitCyprus:
         "https://www.visitcyprus.com/index.php/en/discovercyprus/culture/sites-monuments/166-makronissos-tombs?&cur_lang=en-GB",
       departmentOfAntiquities: "",
+      wikipedia: "",
       audioGuide: "",
       site: "",
       virtualTour: "",
@@ -1086,6 +1133,7 @@ const Places = {
       visitCyprus:
         "https://www.visitcyprus.com/index.php/en/discovercyprus/culture/sites-monuments/189-agios-ioannis-st-john-s-cathedral?cur_lang=en-GB",
       departmentOfAntiquities: "",
+      wikipedia: "",
       audioGuide: "",
       site: "",
       virtualTour: "",
@@ -1109,6 +1157,7 @@ const Places = {
         "https://www.visitcyprus.com/index.php/en/discovercyprus/culture/museums-galleries/142-archaeological-museum-of-the-lemesos-limassol-district?cur_lang=en-GB",
       departmentOfAntiquities:
         "http://www.culture.gov.cy/dmculture/da/da.nsf/All/F326C998358D550BC225719900203AEA?OpenDocument",
+      wikipedia: "",
       audioGuide: "",
       site: "",
       virtualTour: "",
@@ -1131,6 +1180,7 @@ const Places = {
       visitCyprus:
         "https://www.visitcyprus.com/index.php/en/discovercyprus/culture/sites-monuments/208-agios-irakleidios-convent?cur_lang=en-GB",
       departmentOfAntiquities: "",
+      wikipedia: "",
       audioGuide: "",
       site: "",
       virtualTour: "",
@@ -1153,6 +1203,7 @@ const Places = {
       visitCyprus:
         "https://www.visitcyprus.com/index.php/en/discovercyprus/culture/sites-monuments/200-panagia-chrysospiliotissa-church?cur_lang=en-GB",
       departmentOfAntiquities: "",
+      wikipedia: "",
       audioGuide: "",
       site: "",
       virtualTour: "",
@@ -1175,6 +1226,7 @@ const Places = {
       visitCyprus: "",
       departmentOfAntiquities:
         "http://www.culture.gov.cy/dmculture/DA/DA.nsf/All/8865F898FAA8A275C22571990020EEAA?OpenDocument",
+      wikipedia: "",
       audioGuide: "",
       site: "",
       virtualTour: "",
@@ -1197,6 +1249,7 @@ const Places = {
       visitCyprus:
         "https://www.visitcyprus.com/index.php/en/discovercyprus/culture/sites-monuments/198-omeriye-mosque?cur_lang=en-GB",
       departmentOfAntiquities: "",
+      wikipedia: "",
       audioGuide:
         "https://www.visitcyprus.com/index.php/en/discovercyprus/culture/audio-guides/146-omeriye-mosque-audio-guide",
       site: "",
@@ -1220,6 +1273,7 @@ const Places = {
       visitCyprus:
         "https://www.visitcyprus.com/index.php/en/discovercyprus/culture/sites-monuments/249-panagia-tou-sinti-monastery?cur_lang=en-GB",
       departmentOfAntiquities: "",
+      wikipedia: "",
       audioGuide: "",
       site: "https://www.cyprusisland.net/cyprus-monasteries/panagia-tou-sinti-monastery",
       virtualTour: "",
@@ -1243,6 +1297,7 @@ const Places = {
         "https://www.visitcyprus.com/index.php/en/discovercyprus/culture/sites-monuments/267-panagia-tou-araka-church?cur_lang=en-GB",
       departmentOfAntiquities:
         "http://www.culture.gov.cy/dmculture/DA/DA.nsf/All/9690D7CC438FE731C2257199003197BB?OpenDocument",
+      wikipedia: "",
       audioGuide:
         "https://www.visitcyprus.com/index.php/en/discovercyprus/culture/audio-guides/147-panagia-tou-araka-audio-guide",
       site: "",
@@ -1266,6 +1321,7 @@ const Places = {
       visitCyprus:
         "https://www.visitcyprus.com/index.php/en/discovercyprus/culture/sites-monuments/193-faneromeni-church?cur_lang=en-GB",
       departmentOfAntiquities: "",
+      wikipedia: "",
       audioGuide: "",
       site: "",
       virtualTour: "",
@@ -1289,6 +1345,7 @@ const Places = {
         "https://www.visitcyprus.com/index.php/en/discovercyprus/culture/sites-monuments/262-panagia-podithou-church?cur_lang=en-GB",
       departmentOfAntiquities:
         "http://www.culture.gov.cy/dmculture/DA/DA.nsf/All/2A3436D8AF3AE0BFC22571990031D984?OpenDocument",
+      wikipedia: "",
       audioGuide:
         "https://www.visitcyprus.com/index.php/en/discovercyprus/culture/audio-guides/149-the-church-of-panagia-podithou-virgin-mary-of-podithou-at-galata-audio-guide",
       site: "",
@@ -1313,6 +1370,7 @@ const Places = {
         "https://www.visitcyprus.com/index.php/en/discovercyprus/culture/sites-monuments/176-kalavasos-tenta-archaeological-site?cur_lang=en-GB",
       departmentOfAntiquities:
         "http://www.culture.gov.cy/dmculture/DA/DA.nsf/All/F9048934D768E989C225719B003413CE?OpenDocument",
+      wikipedia: "",
       audioGuide: "",
       site: "",
       virtualTour: "",
@@ -1335,6 +1393,7 @@ const Places = {
       visitCyprus:
         "https://www.visitcyprus.com/index.php/en/discovercyprus/culture/sites-monuments/171-agios-minas-convent?cur_lang=en-GB",
       departmentOfAntiquities: "",
+      wikipedia: "",
       audioGuide: "",
       site: "",
       virtualTour: "",
@@ -1357,6 +1416,7 @@ const Places = {
       visitCyprus:
         "https://www.visitcyprus.com/index.php/en/discovercyprus/culture/museums-galleries/111-pierides-museum-bank-of-cyprus-cultural-foundation?cur_lang=en-GB",
       departmentOfAntiquities: "",
+      wikipedia: "",
       audioGuide: "",
       site: "",
       virtualTour: "https://virtuallarnakaregion.com/PieridesMuseum/",
@@ -1379,6 +1439,7 @@ const Places = {
       visitCyprus:
         "https://www.visitcyprus.com/index.php/en/discovercyprus/culture/museums-galleries/151-ethnographic-museum-pafos-paphos?cur_lang=en-GB",
       departmentOfAntiquities: "",
+      wikipedia: "",
       audioGuide: "",
       site: "https://ethnographicalmuseum.com",
       virtualTour: "",
@@ -1401,6 +1462,7 @@ const Places = {
       visitCyprus:
         "https://www.visitcyprus.com/index.php/en/discovercyprus/culture/museums-galleries/115-byzantine-museum?cur_lang=en-GB",
       departmentOfAntiquities: "",
+      wikipedia: "",
       audioGuide:
         "https://www.visitcyprus.com/index.php/en/discovercyprus/culture/audio-guides/131-byzantine-museum-of-the-foundation-archbishop-makarios-iii-audio-guide",
       site: "",
@@ -1424,6 +1486,7 @@ const Places = {
       visitCyprus:
         "https://www.visitcyprus.com/index.php/en/discovercyprus/culture/sites-monuments/202-famagusta-gate-pyli-ammochostou?cur_lang=en-GB",
       departmentOfAntiquities: "",
+      wikipedia: "",
       audioGuide: "",
       site: "",
       virtualTour: "",
@@ -1444,6 +1507,7 @@ const Places = {
       visitCyprus:
         "https://www.visitcyprus.com/index.php/en/discovercyprus/culture/sites-monuments/225-st-catherine-s-catholic-church?cur_lang=en-GB",
       departmentOfAntiquities: "",
+      wikipedia: "",
       audioGuide: "",
       site: "http://www.cypruscatholicchurch.org/limassol",
       virtualTour: "",
@@ -1466,6 +1530,7 @@ const Places = {
       visitCyprus:
         "https://www.visitcyprus.com/index.php/en/discovercyprus/culture/museums-galleries/117-cyprus-handicraft-centre-lefkosia-nicosia?cur_lang=en-GB",
       departmentOfAntiquities: "",
+      wikipedia: "",
       audioGuide: "",
       site: "",
       virtualTour: "",
@@ -1488,6 +1553,7 @@ const Places = {
       visitCyprus:
         "https://www.visitcyprus.com/index.php/en/discovercyprus/culture/museums-galleries/152-fyti-weaving-museum?cur_lang=en-GB",
       departmentOfAntiquities: "",
+      wikipedia: "",
       audioGuide: "",
       site: "",
       virtualTour: "",
@@ -1510,6 +1576,7 @@ const Places = {
       visitCyprus:
         "https://www.visitcyprus.com/index.php/en/discovercyprus/culture/museums-galleries/158-the-steni-museum-of-village-life?cur_lang=en-GB",
       departmentOfAntiquities: "",
+      wikipedia: "",
       audioGuide: "",
       site: "",
       virtualTour: "",
@@ -1532,6 +1599,7 @@ const Places = {
       visitCyprus: "",
       departmentOfAntiquities:
         "http://www.culture.gov.cy/dmculture/DA/DA.nsf/All/3F2CF6E8B9E9BF3DC2257DE7002DFE14?OpenDocument",
+      wikipedia: "",
       audioGuide: "",
       site: "",
       virtualTour: "",
@@ -1554,6 +1622,7 @@ const Places = {
       visitCyprus:
         "https://www.visitcyprus.com/index.php/en/discovercyprus/culture/sites-monuments/167-the-agia-napa-aqueduct?cur_lang=en-GB",
       departmentOfAntiquities: "",
+      wikipedia: "",
       audioGuide: "",
       site: "",
       virtualTour: "",
@@ -1578,6 +1647,7 @@ const Places = {
       visitCyprus:
         "https://www.visitcyprus.com/index.php/en/discovercyprus/culture/sites-monuments/181-terra-santa-catholic-church?cur_lang=en-GB",
       departmentOfAntiquities: "",
+      wikipedia: "",
       audioGuide: "",
       site: "http://www.cypruscatholicchurch.org/larnaca",
       virtualTour: "",
@@ -1601,6 +1671,7 @@ const Places = {
         "https://www.visitcyprus.com/index.php/en/discovercyprus/culture/museums-galleries/146-local-archaeological-kourion-museum-episkopi?cur_lang=en-GB",
       departmentOfAntiquities:
         "http://www.culture.gov.cy/dmculture/DA/DA.nsf/All/21E14D80F55D8539C22571990020DC5C?OpenDocument",
+      wikipedia: "",
       audioGuide: "",
       site: "",
       virtualTour: "",
@@ -1621,6 +1692,7 @@ const Places = {
       visitCyprus:
         "https://www.visitcyprus.com/index.php/en/discovercyprus/culture/sites-monuments/195-holy-cross-catholic-church?cur_lang=en-GB",
       departmentOfAntiquities: "",
+      wikipedia: "",
       audioGuide: "",
       site: "http://www.cypruscatholicchurch.org/paphos",
       virtualTour: "",
@@ -1644,6 +1716,7 @@ const Places = {
         "https://www.visitcyprus.com/index.php/en/discovercyprus/culture/sites-monuments/268-panagia-tou-moutoulla-church?cur_lang=en-GB",
       departmentOfAntiquities:
         "http://www.culture.gov.cy/dmculture/DA/DA.nsf/All/FB5FDD9D221C988DC2257199003216AE?OpenDocument",
+      wikipedia: "",
       audioGuide:
         "https://www.visitcyprus.com/index.php/en/discovercyprus/culture/audio-guides/150-the-church-of-panagia-tou-moutoulla-audio-guide",
       site: "",
@@ -1665,6 +1738,7 @@ const Places = {
       visitCyprus:
         "https://www.visitcyprus.com/index.php/en/discovercyprus/culture/museums-galleries/99-deryneia-folkloric-museum-open-air-museum-for-traditional-professions?cur_lang=en-GB",
       departmentOfAntiquities: "",
+      wikipedia: "",
       audioGuide: "",
       site: "",
       virtualTour: "",
@@ -1687,6 +1761,7 @@ const Places = {
       visitCyprus:
         "https://www.visitcyprus.com/index.php/en/discovercyprus/culture/sites-monuments/242-loutra-ottoman-hamam?cur_lang=en-GB",
       departmentOfAntiquities: "",
+      wikipedia: "",
       audioGuide: "",
       site: "",
       virtualTour: "",
@@ -1709,6 +1784,7 @@ const Places = {
       visitCyprus:
         "https://www.visitcyprus.com/index.php/en/discovercyprus/culture/sites-monuments/210-agios-panteleimon-convent?cur_lang=en-GB",
       departmentOfAntiquities: "",
+      wikipedia: "",
       audioGuide: "",
       site: "",
       virtualTour: "",
@@ -1731,6 +1807,7 @@ const Places = {
       visitCyprus:
         "https://www.visitcyprus.com/index.php/en/discovercyprus/culture/museums-galleries/133-the-nicosia-lefkosia-municipal-arts-centre-nimac?cur_lang=en-GB",
       departmentOfAntiquities: "",
+      wikipedia: "",
       audioGuide: "",
       site: "https://nimac.org.cy",
       virtualTour: "",
@@ -1754,6 +1831,7 @@ const Places = {
         "https://www.visitcyprus.com/index.php/en/discovercyprus/culture/museums-galleries/155-local-archaeological-museum-of-marion-arsinoe-polis-chrysochous?cur_lang=en-GB",
       departmentOfAntiquities:
         "http://www.culture.gov.cy/dmculture/DA/DA.nsf/All/CAF4EC728ABCA91CC225719900208766?OpenDocument",
+      wikipedia: "",
       audioGuide: "",
       site: "",
       virtualTour: "",
@@ -1774,6 +1852,7 @@ const Places = {
       visitCyprus:
         "https://www.visitcyprus.com/index.php/en/discovercyprus/culture/sites-monuments/192-bayraktar-mosque?cur_lang=en-GB",
       departmentOfAntiquities: "",
+      wikipedia: "",
       audioGuide: "",
       site: "",
       virtualTour: "",
@@ -1797,6 +1876,7 @@ const Places = {
         "https://www.visitcyprus.com/index.php/en/discovercyprus/culture/museums-galleries/153-local-ethnographic-museum-of-geroskipou?cur_lang=en-GB",
       departmentOfAntiquities:
         "http://www.culture.gov.cy/dmculture/DA/DA.nsf/All/38CF6DFE0977E664C22571990020C289?OpenDocument",
+      wikipedia: "",
       audioGuide: "",
       site: "https://ethnographicalmuseum.com/",
       virtualTour: "",
@@ -1819,6 +1899,7 @@ const Places = {
       visitCyprus:
         "https://www.visitcyprus.com/index.php/en/discovercyprus/culture/sites-monuments/206-archangelos-michael-trypiotis-church?cur_lang=en-GB",
       departmentOfAntiquities: "",
+      wikipedia: "",
       audioGuide: "",
       site: "",
       virtualTour: "",
@@ -1841,6 +1922,7 @@ const Places = {
       visitCyprus: "",
       departmentOfAntiquities:
         "http://www.culture.gov.cy/dmculture/DA/DA.nsf/All/239C3294F30939F0C225719900210029?OpenDocument",
+      wikipedia: "",
       audioGuide: "",
       site: "",
       virtualTour: "",
@@ -1863,6 +1945,7 @@ const Places = {
       visitCyprus:
         "https://www.visitcyprus.com/index.php/en/discovercyprus/culture/museums-galleries/292176-fairytale-museum?cur_lang=en-GB",
       departmentOfAntiquities: "",
+      wikipedia: "",
       audioGuide: "",
       site: "https://www.fairytalemuseum.org.cy",
       virtualTour: "",
@@ -1885,6 +1968,7 @@ const Places = {
       visitCyprus:
         "https://www.visitcyprus.com/index.php/en/discovercyprus/culture/museums-galleries/134-national-struggle-museum?cur_lang=en-GB",
       departmentOfAntiquities: "",
+      wikipedia: "",
       audioGuide: "",
       site: "",
       virtualTour: "",
@@ -1907,6 +1991,7 @@ const Places = {
       visitCyprus:
         "https://www.visitcyprus.com/index.php/en/discovercyprus/culture/museums-galleries/103-agios-lazaros-byzantine-museum?cur_lang=en-GB",
       departmentOfAntiquities: "",
+      wikipedia: "",
       audioGuide:
         "https://www.visitcyprus.com/index.php/en/discovercyprus/culture/audio-guides/126-agios-lazaros-church-and-ecclesiastical-museum-audio-guide",
       site: "",
@@ -1931,6 +2016,7 @@ const Places = {
         "https://www.visitcyprus.com/index.php/en/discovercyprus/culture/sites-monuments/209-church-of-agios-varnavas-and-ilarionas-saints-barnabas-and-hilarion?cur_lang=en-G",
       departmentOfAntiquities:
         "http://www.culture.gov.cy/dmculture/DA/DA.nsf/All/DC5D604B31A7BBE9C2257199003267CF?OpenDocument",
+      wikipedia: "",
       audioGuide: "",
       site: "",
       virtualTour: "",
@@ -1954,6 +2040,7 @@ const Places = {
         "https://www.visitcyprus.com/index.php/en/discovercyprus/culture/sites-monuments/201-tamasos-archaeological-site?cur_lang=en-GB",
       departmentOfAntiquities:
         "http://www.culture.gov.cy/dmculture/DA/DA.nsf/All/AC29D500E2B17C5FC225719B0036AFAD?OpenDocument",
+      wikipedia: "",
       audioGuide: "",
       site: "",
       virtualTour: "",
@@ -1976,6 +2063,7 @@ const Places = {
       visitCyprus:
         "https://www.visitcyprus.com/index.php/en/discovercyprus/culture/sites-monuments/190-archangelos-michael-convent?cur_lang=en-GB",
       departmentOfAntiquities: "",
+      wikipedia: "",
       audioGuide: "",
       site: "",
       virtualTour: "",
@@ -1999,6 +2087,7 @@ const Places = {
         "https://www.visitcyprus.com/index.php/en/discovercyprus/culture/museums-galleries/364969-local-museum-of-ancient-idalion-in-dali-region?cur_lang=en-GB",
       departmentOfAntiquities:
         "http://www.culture.gov.cy/dmculture/DA/DA.nsf/All/68FD3748528FD18FC22573E2003721AD?OpenDocument",
+      wikipedia: "",
       audioGuide: "",
       site: "",
       virtualTour: "",
@@ -2022,6 +2111,7 @@ const Places = {
         "https://www.visitcyprus.com/index.php/en/discovercyprus/culture/sites-monuments/269-stavros-tou-agiasmati-church?cur_lang=en-G",
       departmentOfAntiquities:
         "http://www.culture.gov.cy/dmculture/DA/DA.nsf/All/BD38CB1DB5F53C6FC22571990031696B?OpenDocument",
+      wikipedia: "",
       audioGuide:
         "https://www.visitcyprus.com/index.php/en/discovercyprus/culture/audio-guides/160-the-church-of-the-holy-cross-of-agiasmati-in-platanistasa-audio-guide",
       site: "",
@@ -2043,6 +2133,7 @@ const Places = {
       visitCyprus:
         "https://www.visitcyprus.com/index.php/en/discovercyprus/culture/museums-galleries/121-ethnographic-museum-of-cyprus?cur_lang=en-GB",
       departmentOfAntiquities: "",
+      wikipedia: "",
       audioGuide: "",
       site: "https://www.cypriotstudies.org/English%20HTMLs/indexEN.html",
       virtualTour: "",
@@ -2065,6 +2156,7 @@ const Places = {
       visitCyprus: "",
       departmentOfAntiquities:
         "http://www.culture.gov.cy/dmculture/DA/DA.nsf/All/09FEF352D9F1AC8AC2257199003551D5?OpenDocument",
+      wikipedia: "",
       audioGuide: "",
       site: "",
       virtualTour: "",
@@ -2087,6 +2179,7 @@ const Places = {
       visitCyprus: "",
       departmentOfAntiquities:
         "http://www.culture.gov.cy/dmculture/DA/DA.nsf/All/45F3E1C0EB88F33942257A7800346B6D?OpenDocument",
+      wikipedia: "",
       audioGuide: "",
       site: "",
       virtualTour: "",
@@ -2107,6 +2200,7 @@ const Places = {
       visitCyprus:
         "https://www.visitcyprus.com/index.php/en/discovercyprus/culture/museums-galleries/139-cyprus-theatre-museum?cur_lang=en-GB",
       departmentOfAntiquities: "",
+      wikipedia: "",
       audioGuide: "",
       site: "http://www.cyprustheatremuseum.com/?lang=en",
       virtualTour: "",
@@ -2129,6 +2223,7 @@ const Places = {
       visitCyprus: "",
       departmentOfAntiquities:
         "http://www.culture.gov.cy/dmculture/DA/DA.nsf/All/D29999253080F9BBC2257199002134BD?OpenDocument",
+      wikipedia: "",
       audioGuide: "",
       site: "",
       virtualTour: "",
@@ -2151,6 +2246,7 @@ const Places = {
       visitCyprus:
         "https://www.visitcyprus.com/index.php/en/discovercyprus/culture/sites-monuments/234-church-of-timiou-stavrou-holy-cross-anogyra?cur_lang=en-GB",
       departmentOfAntiquities: "",
+      wikipedia: "",
       audioGuide: "",
       site: "",
       virtualTour: "",
@@ -2173,6 +2269,7 @@ const Places = {
       visitCyprus:
         "https://www.visitcyprus.com/index.php/en/discovercyprus/culture/museums-galleries/150-ecclesiastical-museum-of-pafos-paphos?cur_lang=en-GB",
       departmentOfAntiquities: "",
+      wikipedia: "",
       audioGuide: "",
       site: "",
       virtualTour: "",
@@ -2195,6 +2292,7 @@ const Places = {
       visitCyprus:
         "https://www.visitcyprus.com/index.php/en/discovercyprus/culture/sites-monuments/199-pafos-paphos-gate?cur_lang=en-GB",
       departmentOfAntiquities: "",
+      wikipedia: "",
       audioGuide: "",
       site: "https://www.nicosia.org.cy/en-GB/discover/sights/paphos-gate/",
       virtualTour: "",
@@ -2217,6 +2315,7 @@ const Places = {
       visitCyprus:
         "https://www.visitcyprus.com/index.php/en/discovercyprus/culture/museums-galleries/360410-takis-pattichis-museum-of-industrial-pharmacy?cur_lang=en-GB",
       departmentOfAntiquities: "",
+      wikipedia: "",
       audioGuide: "",
       site: "https://www.pattichismuseum.cy/en/home/",
       virtualTour: "",
@@ -2240,6 +2339,7 @@ const Places = {
         "https://www.visitcyprus.com/index.php/en/discovercyprus/culture/sites-monuments/196-ancient-idalion-archaeological-site?cur_lang=en-GB",
       departmentOfAntiquities:
         "http://www.culture.gov.cy/dmculture/DA/DA.nsf/All/1415F272540A21FBC22585B20028A6FE?OpenDocument",
+      wikipedia: "",
       audioGuide: "",
       site: "",
       virtualTour: "",
@@ -2262,6 +2362,7 @@ const Places = {
       visitCyprus:
         "https://www.visitcyprus.com/index.php/en/discovercyprus/culture/sites-monuments/257-agia-moni-monastery?cur_lang=en-GB",
       departmentOfAntiquities: "",
+      wikipedia: "",
       audioGuide: "",
       site: "",
       virtualTour: "",
@@ -2286,6 +2387,7 @@ const Places = {
       visitCyprus:
         "https://www.visitcyprus.com/index.php/en/discovercyprus/culture/museums-galleries/108-larnaka-larnaca-municipal-museum-of-natural-history?cur_lang=en-GB",
       departmentOfAntiquities: "",
+      wikipedia: "",
       audioGuide: "",
       site: "",
       virtualTour:
@@ -2309,6 +2411,7 @@ const Places = {
       visitCyprus:
         "https://www.visitcyprus.com/index.php/en/discovercyprus/culture/sites-monuments/266-panagia-chrysokourdaliotissa-church?cur_lang=en-GB",
       departmentOfAntiquities: "",
+      wikipedia: "",
       audioGuide: "",
       site: "https://immorfou.org.cy/ιερά-μονή-παναγίας-χρυσοκουρδαλιώτι/",
       virtualTour: "",
@@ -2331,6 +2434,7 @@ const Places = {
       visitCyprus:
         "https://www.visitcyprus.com/index.php/en/discovercyprus/culture/museums-galleries/128-state-gallery-of-contemporary-art?cur_lang=en-GB",
       departmentOfAntiquities: "",
+      wikipedia: "",
       audioGuide: "",
       site: "",
       virtualTour: "",
@@ -2353,6 +2457,7 @@ const Places = {
       visitCyprus:
         "https://www.visitcyprus.com/index.php/en/discovercyprus/culture/museums-galleries/145-lemesos-limassol-municipal-art-gallery?cur_lang=en-GB",
       departmentOfAntiquities: "",
+      wikipedia: "",
       audioGuide: "",
       site: "",
       virtualTour: "",
@@ -2373,6 +2478,7 @@ const Places = {
       visitCyprus:
         "https://www.visitcyprus.com/index.php/en/discovercyprus/culture/museums-galleries/120-cyprus-postal-museum?cur_lang=en-GB",
       departmentOfAntiquities: "",
+      wikipedia: "",
       audioGuide: "",
       site: "",
       virtualTour: "",
@@ -2395,6 +2501,7 @@ const Places = {
       visitCyprus:
         "https://www.visitcyprus.com/index.php/en/discovercyprus/culture/museums-galleries/109-municipal-historical-archives-museum-of-larnaka-larnaca?cur_lang=en-GB",
       departmentOfAntiquities: "",
+      wikipedia: "",
       audioGuide: "",
       site: "https://larnakaregion.com/directory/product/larnaka-historic-archives-museum",
       virtualTour:
@@ -2420,6 +2527,7 @@ const Places = {
       visitCyprus:
         "https://www.visitcyprus.com/index.php/en/discovercyprus/culture/sites-monuments/254-early-christian-basilica-st-paul-s-pillar-chrysopolitissa-agia-kyriaki-church?cur_lang=en-GB",
       departmentOfAntiquities: "",
+      wikipedia: "",
       audioGuide: "",
       site: "",
       virtualTour: "",
@@ -2442,6 +2550,7 @@ const Places = {
       visitCyprus:
         "https://www.visitcyprus.com/index.php/en/discovercyprus/culture/museums-galleries/118-cyprus-museum-of-natural-history?cur_lang=en-GB",
       departmentOfAntiquities: "",
+      wikipedia: "",
       audioGuide: "",
       site: "http://www.natmuseum.org.cy/index-en.html",
       virtualTour: "",
@@ -2464,6 +2573,7 @@ const Places = {
       visitCyprus:
         "https://www.visitcyprus.com/index.php/en/discovercyprus/culture/museums-galleries/110-medical-museum-kyriazi-larnaka-larnaca?cur_lang=en-GB",
       departmentOfAntiquities: "",
+      wikipedia: "",
       audioGuide: "",
       site: "https://www.kyriazismedical.museum",
       virtualTour: "https://virtuallarnakaregion.com/KyriazisMedicalMuseum/",
@@ -2487,6 +2597,7 @@ const Places = {
         "https://www.visitcyprus.com/index.php/en/discovercyprus/culture/sites-monuments/244-maa-palaeokastro-archaeological-site-and-museum?cur_lang=en-GB",
       departmentOfAntiquities:
         "http://www.culture.gov.cy/dmculture/DA/DA.nsf/All/2E996F138499D655C22571960038D492?OpenDocument",
+      wikipedia: "",
       audioGuide: "",
       site: "",
       virtualTour: "",
@@ -2509,6 +2620,7 @@ const Places = {
       visitCyprus:
         "https://www.visitcyprus.com/index.php/en/discovercyprus/culture/sites-monuments/168-agios-antonios-church-kelia-village?cur_lang=en-GB",
       departmentOfAntiquities: "",
+      wikipedia: "",
       audioGuide: "",
       site: "https://agiosantonios.com",
       virtualTour: "",
@@ -2533,6 +2645,7 @@ const Places = {
       visitCyprus:
         "https://www.visitcyprus.com/index.php/en/discovercyprus/culture/sites-monuments/248-panagia-chryseleousa-church?cur_lang=en-GB",
       departmentOfAntiquities: "",
+      wikipedia: "",
       audioGuide: "",
       site: "",
       virtualTour: "",
@@ -2555,6 +2668,7 @@ const Places = {
       visitCyprus:
         "https://www.visitcyprus.com/index.php/en/discovercyprus/culture/sites-monuments/186-zuhuri-mosque?cur_lang=en-GB",
       departmentOfAntiquities: "",
+      wikipedia: "",
       audioGuide: "",
       site: "",
       virtualTour: "",
@@ -2575,6 +2689,7 @@ const Places = {
       visitCyprus:
         "https://www.visitcyprus.com/index.php/en/discovercyprus/culture/sites-monuments/273-the-church-of-the-archangelos-michael-or-panagia-theotokos?cur_lang=en-GB",
       departmentOfAntiquities: "",
+      wikipedia: "",
       audioGuide: "",
       site: "",
       virtualTour: "",
@@ -2595,6 +2710,7 @@ const Places = {
       visitCyprus:
         "https://www.visitcyprus.com/index.php/en/discovercyprus/culture/museums-galleries/119-cyprus-police-museum?cur_lang=en-GB",
       departmentOfAntiquities: "",
+      wikipedia: "",
       audioGuide: "",
       site: "",
       virtualTour: "",
@@ -2613,6 +2729,7 @@ const Places = {
       visitCyprus:
         "https://www.visitcyprus.com/index.php/en/discovercyprus/culture/museums-galleries/105-kallinikeio-municipal-museum-of-athienou?cur_lang=en-GB",
       departmentOfAntiquities: "",
+      wikipedia: "",
       audioGuide: "",
       site: "",
       virtualTour: "",
@@ -2633,6 +2750,7 @@ const Places = {
       visitCyprus:
         "https://www.visitcyprus.com/index.php/en/discovercyprus/culture/sites-monuments/228-church-of-panagia-iamatiki?cur_lang=en-GB",
       departmentOfAntiquities: "",
+      wikipedia: "",
       audioGuide: "",
       site: "",
       virtualTour: "",
@@ -2653,6 +2771,7 @@ const Places = {
       visitCyprus:
         "https://www.visitcyprus.com/index.php/en/discovercyprus/culture/museums-galleries/102-paralimni-folkloric-museum?cur_lang=en-GB",
       departmentOfAntiquities: "",
+      wikipedia: "",
       audioGuide: "",
       site: "",
       virtualTour: "",
@@ -2673,6 +2792,7 @@ const Places = {
       visitCyprus:
         "https://www.visitcyprus.com/index.php/en/discovercyprus/culture/museums-galleries/365285-the-costas-argyrou-museum?cur_lang=en-GB",
       departmentOfAntiquities: "",
+      wikipedia: "",
       audioGuide: "",
       site: "https://costasargyroumuseum.org",
       virtualTour: "https://virtuallarnakaregion.com/Costas-Argyrou-Museum/",
@@ -2693,6 +2813,7 @@ const Places = {
       visitCyprus:
         "https://www.visitcyprus.com/index.php/en/discovercyprus/culture/museums-galleries/138-cyprus-medical-museum?cur_lang=en-GB",
       departmentOfAntiquities: "",
+      wikipedia: "",
       audioGuide: "",
       site: "",
       virtualTour: "",
@@ -2713,6 +2834,7 @@ const Places = {
       visitCyprus:
         "https://www.visitcyprus.com/index.php/en/discovercyprus/culture/museums-galleries/144-water-museum?cur_lang=en-GB",
       departmentOfAntiquities: "",
+      wikipedia: "",
       audioGuide: "",
       site: "",
       virtualTour: "",
@@ -2733,6 +2855,7 @@ const Places = {
       visitCyprus:
         "https://www.visitcyprus.com/index.php/en/discovercyprus/culture/museums-galleries/97-the-avgorou-ethnographic-museum?cur_lang=en-GB",
       departmentOfAntiquities: "",
+      wikipedia: "",
       audioGuide: "",
       site: "",
       virtualTour: "",
@@ -2753,6 +2876,7 @@ const Places = {
       visitCyprus:
         "https://www.visitcyprus.com/index.php/en/discovercyprus/culture/museums-galleries/131-the-pancyprian-gymnasium-museums?cur_lang=en-GB",
       departmentOfAntiquities: "",
+      wikipedia: "",
       audioGuide: "",
       site: "https://www.nicosia.org.cy/en-GB/discover/museums/pancyprian-gymnasium/",
       virtualTour: "",
@@ -2774,6 +2898,7 @@ const Places = {
         visitCyprus:
           "https://www.visitcyprus.com/index.php/en/discovercyprus/culture/museums-galleries/147-pattichion-municipal-museum-historical-archives-of-lemesos-limassol-research-centre-of-lemesos?cur_lang=en-GB",
         departmentOfAntiquities: "",
+        wikipedia: "",
         audioGuide: "",
         site: "https://www.limassol.org.cy/en/istoriko-arxeio-kentro-meleton",
         virtualTour: "",
@@ -2793,6 +2918,7 @@ const Places = {
         "https://www.visitcyprus.com/index.php/en/discovercyprus/culture/sites-monuments/272-agios-sozomenos-church?cur_lang=en-GB",
       departmentOfAntiquities:
         "http://www.culture.gov.cy/dmculture/DA/DA.nsf/All/0AD4582311E8ECF4C22571990032797C?OpenDocument",
+      wikipedia: "",
       audioGuide: "",
       site: "",
       virtualTour: "",
@@ -2811,6 +2937,7 @@ const Places = {
       visitCyprus:
         "https://www.visitcyprus.com/index.php/en/discovercyprus/culture/sites-monuments/256-agios-kirykos-and-agia-ioulitti-church?cur_lang=en-GB",
       departmentOfAntiquities: "",
+      wikipedia: "",
       audioGuide: "",
       site: "",
       virtualTour: "",
@@ -2829,6 +2956,7 @@ const Places = {
       visitCyprus:
         "https://www.visitcyprus.com/index.php/en/discovercyprus/culture/museums-galleries/143-municipal-folk-art-museum?cur_lang=en-GB",
       departmentOfAntiquities: "",
+      wikipedia: "",
       audioGuide: "",
       site: "https://www.limassol.org.cy/en/museum-laikis-texnis",
       virtualTour: "",
@@ -2847,6 +2975,7 @@ const Places = {
       visitCyprus:
         "https://www.visitcyprus.com/index.php/en/discovercyprus/culture/museums-galleries/125-museum-on-the-history-of-cypriot-coinage?cur_lang=en-GB",
       departmentOfAntiquities: "",
+      wikipedia: "",
       audioGuide: "",
       site: "",
       virtualTour: "",
@@ -2865,6 +2994,7 @@ const Places = {
       visitCyprus:
         "https://www.visitcyprus.com/index.php/en/discovercyprus/culture/museums-galleries/364967-municipal-hambis-printmaking-museum?cur_lang=en-GB",
       departmentOfAntiquities: "",
+      wikipedia: "",
       audioGuide: "",
       site: "https://printmaking.cy",
       virtualTour: "",
@@ -2884,6 +3014,7 @@ const Places = {
         "https://www.visitcyprus.com/index.php/en/discovercyprus/culture/sites-monuments/179-royal-chapel-of-agia-aikaterini-st-catherine-pyrga-village?cur_lang=en-GB",
       departmentOfAntiquities:
         "http://www.culture.gov.cy/dmculture/DA/DA.nsf/All/40727CE6E1B36148C225719900323A59?OpenDocument",
+      wikipedia: "",
       audioGuide: "",
       site: "",
       virtualTour: "",
@@ -2903,6 +3034,7 @@ const Places = {
         "https://www.visitcyprus.com/index.php/en/discovercyprus/culture/sites-monuments/255-agios-andronikos-church?cur_lang=en-GB",
       departmentOfAntiquities:
         "http://www.culture.gov.cy/dmculture/da/da.nsf/All/46F0E538EDC0A721C225719900324E4D?OpenDocument",
+      wikipedia: "",
       audioGuide: "",
       site: "",
       virtualTour: "",
@@ -2921,6 +3053,7 @@ const Places = {
       visitCyprus:
         "https://www.visitcyprus.com/index.php/en/discovercyprus/culture/museums-galleries/360457-kampos-forest-heritage-museum?cur_lang=en-GB",
       departmentOfAntiquities: "",
+      wikipedia: "",
       audioGuide: "",
       site: "",
       virtualTour: "",
@@ -2939,6 +3072,7 @@ const Places = {
       visitCyprus:
         "https://www.visitcyprus.com/index.php/en/discovercyprus/culture/museums-galleries/159-arsos-folk-art-museum?cur_lang=en-GB",
       departmentOfAntiquities: "",
+      wikipedia: "",
       audioGuide: "",
       site: "",
       virtualTour: "",
@@ -2955,6 +3089,7 @@ const Places = {
       visitCyprus:
         "https://www.visitcyprus.com/index.php/en/discovercyprus/culture/sites-monuments/197-saint-george-s-church-lazanias-village?cur_lang=en-GB",
       departmentOfAntiquities: "",
+      wikipedia: "",
       audioGuide: "",
       site: "",
       virtualTour: "",
@@ -2973,6 +3108,7 @@ const Places = {
       visitCyprus:
         "https://www.visitcyprus.com/index.php/en/discovercyprus/culture/sites-monuments/230-agia-anastasia-church?cur_lang=en-GB",
       departmentOfAntiquities: "",
+      wikipedia: "",
       audioGuide: "",
       site: "",
       virtualTour: "",
@@ -2991,6 +3127,7 @@ const Places = {
       visitCyprus:
         "https://www.visitcyprus.com/index.php/en/discovercyprus/culture/museums-galleries/104-folklore-museum-kostas-kaimakliotis-aradippou?cur_lang=en-GB",
       departmentOfAntiquities: "",
+      wikipedia: "",
       audioGuide: "",
       site: "",
       virtualTour: "",
@@ -3009,6 +3146,7 @@ const Places = {
       visitCyprus:
         "https://www.visitcyprus.com/index.php/en/discovercyprus/culture/museums-galleries/162-museum-of-byzantine-heritage-palaichori-village?cur_lang=en-GB",
       departmentOfAntiquities: "",
+      wikipedia: "",
       audioGuide: "",
       site: "",
       virtualTour: "",
@@ -3027,6 +3165,7 @@ const Places = {
       visitCyprus:
         "https://www.visitcyprus.com/index.php/en/discovercyprus/culture/sites-monuments/187-agios-georgios-makris-chapel?cur_lang=en-GB",
       departmentOfAntiquities: "",
+      wikipedia: "",
       audioGuide: "",
       site: "",
       virtualTour: "",
@@ -3045,6 +3184,7 @@ const Places = {
       visitCyprus:
         "https://www.visitcyprus.com/index.php/en/discovercyprus/culture/museums-galleries/877-ecclesiastical-museum-sotira-village?cur_lang=en-GB",
       departmentOfAntiquities: "",
+      wikipedia: "",
       audioGuide: "",
       site: "",
       virtualTour: "",
@@ -3063,6 +3203,7 @@ const Places = {
       visitCyprus: "",
       departmentOfAntiquities:
         "http://www.culture.gov.cy/dmculture/DA/DA.nsf/All/301CDACBD1B4C198C22571990032A9F8?OpenDocument",
+      wikipedia: "",
       audioGuide: "",
       site: "",
       virtualTour: "",
@@ -3083,6 +3224,7 @@ const Places = {
       visitCyprus: "",
       departmentOfAntiquities:
         "http://www.culture.gov.cy/dmculture/DA/DA.nsf/All/BA132D2B1D3E932BC2258A6F00244E79?OpenDocument",
+      wikipedia: "",
       audioGuide: "",
       site: "",
       virtualTour: "",
@@ -3101,6 +3243,7 @@ const Places = {
       visitCyprus:
         "https://www.visitcyprus.com/index.php/en/discovercyprus/culture/sites-monuments/205-the-medieval-walls-of-lefkosia-nicosia?cur_lang=en-GB",
       departmentOfAntiquities: "",
+      wikipedia: "",
       audioGuide: "",
       site: "",
       virtualTour: "",
@@ -3119,6 +3262,7 @@ const Places = {
       visitCyprus:
         "https://www.visitcyprus.com/index.php/en/discovercyprus/culture/sites-monuments/207-st-paul-s-anglican-church?cur_lang=en-GB",
       departmentOfAntiquities: "",
+      wikipedia: "",
       audioGuide: "",
       site: "",
       virtualTour: "",
@@ -3137,6 +3281,7 @@ const Places = {
       visitCyprus:
         "https://www.visitcyprus.com/index.php/en/discovercyprus/culture/sites-monuments/211-panagia-chrysaliniotissa-church?cur_lang=en-GB",
       departmentOfAntiquities: "",
+      wikipedia: "",
       audioGuide: "",
       site: "",
       virtualTour: "",
@@ -3155,6 +3300,7 @@ const Places = {
       visitCyprus:
         "https://www.visitcyprus.com/index.php/en/discovercyprus/culture/sites-monuments/212-chrysaliniotissa-crafts-centre?cur_lang=en-GB",
       departmentOfAntiquities: "",
+      wikipedia: "",
       audioGuide: "",
       site: "",
       virtualTour: "",
@@ -3173,6 +3319,7 @@ const Places = {
       visitCyprus:
         "https://www.visitcyprus.com/index.php/en/discovercyprus/culture/sites-monuments/232-kebir-mosque-the-great-mosque-lemesos-limassol?cur_lang=en-GB",
       departmentOfAntiquities: "",
+      wikipedia: "",
       audioGuide: "",
       site: "",
       virtualTour: "",
@@ -3191,6 +3338,7 @@ const Places = {
       visitCyprus:
         "https://www.visitcyprus.com/index.php/en/discovercyprus/culture/museums-galleries/114-archbishop-makarios-iii-foundation-art-galleries?cur_lang=en-GB",
       departmentOfAntiquities: "",
+      wikipedia: "",
       audioGuide: "",
       site: "",
       virtualTour: "",
@@ -3209,6 +3357,7 @@ const Places = {
       visitCyprus:
         "https://www.visitcyprus.com/index.php/en/discovercyprus/culture/museums-galleries/154-basket-weaving-museum-ineia-village?cur_lang=en-GB",
       departmentOfAntiquities: "",
+      wikipedia: "",
       audioGuide: "",
       site: "",
       virtualTour: "",
@@ -3227,6 +3376,7 @@ const Places = {
       visitCyprus:
         "https://www.visitcyprus.com/index.php/en/discovercyprus/culture/museums-galleries/364968-ledron-archaeological-local-museum?cur_lang=en-GB",
       departmentOfAntiquities: "",
+      wikipedia: "",
       audioGuide: "",
       site: "",
       virtualTour: "",
