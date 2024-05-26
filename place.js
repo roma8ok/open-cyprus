@@ -1723,6 +1723,24 @@ const Places = {
       virtualTour: "",
     },
   },
+  "Gialia Monastery": {
+    description: `The Gialia Monastery is a historic site known for its ancient ruins and serene surroundings. Located amidst a lush forest, the monastery dates back to the Byzantine period, offering a glimpse into the region’s rich religious history.
+
+    Visitors can explore the remnants of the monastery’s structure, which include beautiful stonework and ancient frescoes. The tranquil environment and historical significance make it a fascinating destination for those interested in Cyprus’s cultural heritage.`,
+    popularity: 84,
+    latitude: 35.08938,
+    longitude: 32.5548901,
+    labels: [label.HistoricalLandmark],
+    links: {
+      googleMaps: "https://maps.app.goo.gl/f7a8sL6CY8GJS8NG7",
+      visitCyprus: "",
+      departmentOfAntiquities: "",
+      wikipedia: "https://en.wikipedia.org/wiki/Gialia_Monastery",
+      audioGuide: "",
+      site: "",
+      virtualTour: "",
+    },
+  },
   "Deryneia Folkloric Museum / Open Air Museum for Traditional Professions": {
     description: `This museum, housed in an old traditional residence, exhibits a collection of everyday agricultural tools and equipment used by traditional farming families of bygone times.
 
