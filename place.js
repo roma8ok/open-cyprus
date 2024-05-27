@@ -1445,6 +1445,24 @@ const Places = {
       virtualTour: "",
     },
   },
+  "Katholiki (Panagias Pantanassa)": {
+    description: `Located in Limassol, this historical landmark is renowned for its impressive Byzantine architecture. The church showcases intricate stonework and beautiful frescoes, offering a glimpse into the religious artistry of the time.
+
+    Visitors can appreciate the serene atmosphere and the rich cultural heritage it represents. This site stands as a testament to the deep religious and historical roots of Cyprus, providing a meaningful and contemplative experience.`,
+    popularity: 154,
+    latitude: 34.6756082,
+    longitude: 33.0416057,
+    labels: [label.HistoricalLandmark],
+    links: {
+      googleMaps: "https://maps.app.goo.gl/PuswcjBihNMm8B7J6",
+      visitCyprus: "",
+      departmentOfAntiquities: "",
+      wikipedia: "",
+      audioGuide: "",
+      site: "",
+      virtualTour: "",
+    },
+  },
   "Byzantine Museum": {
     description: `This museum, located within the walled city of Nicosia, houses the richest collection of Byzantine art in Cyprus.
 
