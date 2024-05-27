@@ -1327,6 +1327,24 @@ const Places = {
       virtualTour: "",
     },
   },
+  "Monastery of St John the Forerunner of Mesa Potamos": {
+    description: `Nestled in the Troodos Mountains, this monastery is surrounded by dense pine forests and natural springs. Known for its tranquil setting, it dates back to the 18th century. The architecture is simple yet striking, embodying traditional Cypriot monastic styles.
+
+    The serene environment offers a peaceful retreat, attracting visitors for its spiritual significance and historical value. Accessible year-round, it welcomes pilgrims and tourists alike, providing a glimpse into Cyprus’s rich religious heritage amidst the serene backdrop of the Troodos forest.`,
+    popularity: 169,
+    latitude: 34.8949418,
+    longitude: 32.9098217,
+    labels: [label.HistoricalLandmark],
+    links: {
+      googleMaps: "https://maps.app.goo.gl/FH5vxQ1yahncjYU2A",
+      visitCyprus: "",
+      departmentOfAntiquities: "",
+      wikipedia: "",
+      audioGuide: "",
+      site: "",
+      virtualTour: "",
+    },
+  },
   "Church of Panagia (Our Lady) tis Podithou, Galata": {
     description: `This Byzantine church, dedicated to the Virgin Mary, was built in 1502 and is renowned for its stunning frescoes in the Italo-Byzantine style.
 
