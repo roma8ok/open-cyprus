@@ -3274,7 +3274,8 @@ const Places = {
     labels: [label.Museum, label.Free],
     links: {
       googleMaps: "https://maps.app.goo.gl/uaR1QmNpb7rQ3SBH7",
-      visitCyprus: "",
+      visitCyprus:
+        "https://www.visitcyprus.com/index.php/en/discovercyprus/culture/museums-galleries/364968-ledron-archaeological-local-museum?cur_lang=en-GB",
       departmentOfAntiquities:
         "http://www.culture.gov.cy/dmculture/DA/DA.nsf/All/BA132D2B1D3E932BC2258A6F00244E79?OpenDocument",
       wikipedia: "",
@@ -3409,25 +3410,6 @@ const Places = {
       googleMaps: "https://maps.app.goo.gl/v8jNbGnEbj9NTNsF8",
       visitCyprus:
         "https://www.visitcyprus.com/index.php/en/discovercyprus/culture/museums-galleries/154-basket-weaving-museum-ineia-village?cur_lang=en-GB",
-      departmentOfAntiquities: "",
-      wikipedia: "",
-      audioGuide: "",
-      site: "",
-      virtualTour: "",
-    },
-  },
-  "Ledron Archaeological Local Museum": {
-    description: `Located in Lefkosia, this museum showcases significant archaeological finds from the local area. It offers insights into the historical and cultural development of the region through various periods.
-
-    The exhibits include pottery, tools, and other artifacts that provide a comprehensive understanding of ancient life. The museum aims to educate visitors about the rich archaeological heritage of Lefkosia, making it a valuable cultural and educational resource.`,
-    popularity: 0,
-    latitude: 35.16606917,
-    longitude: 33.35633566,
-    labels: [label.Museum, label.Free],
-    links: {
-      googleMaps: "https://maps.app.goo.gl/sugNrCQqEkJedvs1A",
-      visitCyprus:
-        "https://www.visitcyprus.com/index.php/en/discovercyprus/culture/museums-galleries/364968-ledron-archaeological-local-museum?cur_lang=en-GB",
       departmentOfAntiquities: "",
       wikipedia: "",
       audioGuide: "",
