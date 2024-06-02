@@ -660,7 +660,6 @@ const Places = {
       wikipedia: "",
       audioGuide: "",
       site: "",
-
       virtualTour: "",
     },
   },
