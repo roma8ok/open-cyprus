@@ -189,6 +189,7 @@ const hidePlaceInfo = () => {
 
 let map = L.map(id.Map).setView(config.InitCoordinates, config.ZoomInit);
 L.tileLayer("https://tile.openstreetmap.org/{z}/{x}/{y}.png", {
+  minZoom: config.ZoomMin,
   maxZoom: config.ZoomMax,
   attribution: `<a href="http://www.openstreetmap.org/copyright">OpenStreetMap</a>`,
 }).addTo(map);
