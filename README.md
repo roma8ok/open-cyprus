@@ -9,7 +9,7 @@ The application is designed to help users explore the island and discover its ri
 ## Features
 
 - **Detailed Place Information**: Clicking on any place marker reveals details such as place name, description, and labels for popularity and free entry.
-- **Filter Options**: Includes filters for popular places, free entry, virtual tours, and audio guides to customize the viewing experience.
+- **Filter Options**: Includes filters for popular places, free entry, virtual tours, audio guides, and beaches to customize the viewing experience.
 - **External Links**: Provides direct links to Google Maps, virtual tours, audio guides and official websites for each destination.
 - **Sharing Feature**: Allows users to easily copy and share links to specific places.
 

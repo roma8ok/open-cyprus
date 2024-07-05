@@ -17,6 +17,7 @@ const placesFilteredAudioGuide = filter.GetPlaceNamesByLink(
 const placesFilteredVirtualTour = filter.GetPlaceNamesByLink(
   FieldName.VirtualTour
 );
+const placesFilteredBeach = filter.GetPlaceNamesByLabel(label.Beach);
 const placesFilteredReset = filter.GetPlaceNames();
 
 let showingPlaceName;
@@ -117,6 +118,9 @@ const renderMarkers = (filterName) => {
     case filter.VirtualTour:
       filteredPlaces = placesFilteredVirtualTour;
       break;
+    case filter.Beach:
+      filteredPlaces = placesFilteredBeach;
+      break;
     case filter.Reset:
       filteredPlaces = placesFilteredReset;
       break;
@@ -162,6 +166,9 @@ const setFilter = (filterName) => {
     .classList.remove(className.FilterItemSelected);
   document
     .getElementById(filter.VirtualTour)
+    .classList.remove(className.FilterItemSelected);
+  document
+    .getElementById(filter.Beach)
     .classList.remove(className.FilterItemSelected);
 
   if (filterName === filter.Reset) {
@@ -213,6 +220,9 @@ document
   .addEventListener("click", function () {
     setFilter(filter.VirtualTour);
   });
+document.getElementById(filter.Beach).addEventListener("click", function () {
+  setFilter(filter.Beach);
+});
 document.getElementById(filter.Reset).addEventListener("click", function () {
   setFilter(filter.Reset);
 });

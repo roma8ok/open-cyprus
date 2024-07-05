@@ -7,6 +7,8 @@ export const Free = "filter-free";
 export const AudioGuide = "filter-audio-guide";
 export const VirtualTour = "filter-virtual-tour";
 
+export const Beach = "filter-beach";
+
 export const Reset = "filter-reset";
 
 export const GetPlaceNames = () => {

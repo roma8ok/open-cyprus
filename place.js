@@ -356,6 +356,40 @@ const Places = {
       virtualTour: "",
     },
   },
+  "Vathia Gonia Beach": {
+    description: `Coast of calm seawaters with a lack of winds.`,
+    popularity: 1734,
+    latitude: 34.98725974974166,
+    longitude: 33.97961903884937,
+    labels: [label.Nature, label.Beach, label.Free],
+    links: {
+      googleMaps: "https://maps.app.goo.gl/7dH27xjeNQ4L7wzW6",
+      visitCyprus:
+        "https://www.visitcyprus.com/index.php/en/discovercyprus/sun-sea/beaches/491-vathia-gonia-beach-blue-flag",
+      departmentOfAntiquities: "",
+      wikipedia: "",
+      audioGuide: "",
+      site: "",
+      virtualTour: "",
+    },
+  },
+  "Dasoudi Beach": {
+    description: `Sandy beach with shallow waters.`,
+    popularity: 1622,
+    latitude: 34.69234584108213,
+    longitude: 33.08169951786946,
+    labels: [label.Nature, label.Beach, label.Free],
+    links: {
+      googleMaps: "https://maps.app.goo.gl/d97NFvmxksMPy9DW8",
+      visitCyprus:
+        "https://www.visitcyprus.com/index.php/en/discovercyprus/sun-sea/beaches/547-dasoudi-beach-blue-flag",
+      departmentOfAntiquities: "",
+      wikipedia: "",
+      audioGuide: "",
+      site: "",
+      virtualTour: "",
+    },
+  },
   "Choirokoitia (Khirokitia)": {
     description: `This archaeological site is one of the most important and well-preserved Neolithic settlements in Cyprus.
 
@@ -397,6 +431,23 @@ const Places = {
       googleMaps: "https://maps.app.goo.gl/6L1dQqn8kKCmMWaaA",
       visitCyprus:
         "https://www.visitcyprus.com/index.php/en/discovercyprus/culture/sites-monuments/188-kamares-aqueduct?cur_lang=en-GB",
+      departmentOfAntiquities: "",
+      wikipedia: "",
+      audioGuide: "",
+      site: "",
+      virtualTour: "",
+    },
+  },
+  "Glyki Nero Beach": {
+    description: `Its name means ‘sweet water’ in Greek, and it is a sandy, natural beach of fine, golden sands, and shallow and calm, crystal-clear seawaters.`,
+    popularity: 1153,
+    latitude: 34.98407927542317,
+    longitude: 34.01214301221671,
+    labels: [label.Nature, label.Beach, label.Free],
+    links: {
+      googleMaps: "https://maps.app.goo.gl/GRhVSwUtkTTJqKPv7",
+      visitCyprus:
+        "https://www.visitcyprus.com/index.php/en/discovercyprus/sun-sea/beaches/492-glyki-nero-beach-blue-flag",
       departmentOfAntiquities: "",
       wikipedia: "",
       audioGuide: "",
@@ -804,6 +855,23 @@ const Places = {
       virtualTour: "",
     },
   },
+  "Ammos tou Kambouri Beach": {
+    description: `A golden sandy beach located by stunning sea caves.`,
+    popularity: 497,
+    latitude: 34.9786238946703,
+    longitude: 34.023665820496625,
+    labels: [label.Nature, label.Beach, label.Free],
+    links: {
+      googleMaps: "https://maps.app.goo.gl/eq1odcJXwgdV4cyE9",
+      visitCyprus:
+        "https://www.visitcyprus.com/index.php/en/discovercyprus/sun-sea/beaches/490-ammos-tou-kambouri-beach-blue-flag",
+      departmentOfAntiquities: "",
+      wikipedia: "",
+      audioGuide: "",
+      site: "",
+      virtualTour: "",
+    },
+  },
   "The Leventis Municipal Museum of Nicosia": {
     description: `This museum, located in the heart of Nicosia, offers a detailed exploration of the city’s history and culture from ancient times to the present day.
 
@@ -1044,6 +1112,23 @@ const Places = {
         "https://virtualartmuseumcy.com/wp-content/uploads/ekatefinal3-html5/index.html",
     },
   },
+  "Agia Thekla Beach": {
+    description: `Agia Thekla Beach is a beautiful sandy beach located near the popular resort town of Ayia Napa.`,
+    popularity: 279,
+    latitude: 34.97895872973608,
+    longitude: 33.934830278147984,
+    labels: [label.Nature, label.Beach, label.Free],
+    links: {
+      googleMaps: "https://maps.app.goo.gl/6PLye9xnMK12dfaQ7",
+      visitCyprus:
+        "https://www.visitcyprus.com/index.php/en/discovercyprus/sun-sea/beaches/489-agia-thekla-beach-blue-flag",
+      departmentOfAntiquities: "",
+      wikipedia: "",
+      audioGuide: "",
+      site: "",
+      virtualTour: "",
+    },
+  },
   "Agios Georgios, Pegeia": {
     description: `This archaeological site features the remains of an early Christian basilica and other significant structures.
 
@@ -1201,6 +1286,23 @@ const Places = {
       googleMaps: "https://maps.app.goo.gl/1wwXoGdTR9AuG1S3A",
       visitCyprus:
         "https://www.visitcyprus.com/index.php/en/discovercyprus/culture/sites-monuments/200-panagia-chrysospiliotissa-church?cur_lang=en-GB",
+      departmentOfAntiquities: "",
+      wikipedia: "",
+      audioGuide: "",
+      site: "",
+      virtualTour: "",
+    },
+  },
+  "Limnara (Kermia) Beach": {
+    description: `The beach has fine, golden sands and calm, crystal-clear seawaters, with rock pools at the edge of the bay.`,
+    popularity: 212,
+    latitude: 34.973140314120755,
+    longitude: 34.04017240252685,
+    labels: [label.Nature, label.Beach, label.Free],
+    links: {
+      googleMaps: "https://maps.app.goo.gl/UciVj63A8iwqofAt5",
+      visitCyprus:
+        "https://www.visitcyprus.com/index.php/en/discovercyprus/sun-sea/beaches/494-limnara-kermia-beach-blue-flag",
       departmentOfAntiquities: "",
       wikipedia: "",
       audioGuide: "",
@@ -1688,6 +1790,23 @@ const Places = {
       virtualTour: "",
     },
   },
+  "Pyla Beach": {
+    description: `Sandy beach with clear waters, located in the village of Pyla, near Larnaca.`,
+    popularity: 94,
+    latitude: 34.979422388772754,
+    longitude: 33.70334906420177,
+    labels: [label.Nature, label.Beach, label.Free],
+    links: {
+      googleMaps: "https://maps.app.goo.gl/AXSgASg7P7hbjq3GA",
+      visitCyprus:
+        "https://www.visitcyprus.com/index.php/en/discovercyprus/sun-sea/beaches/548-pyla-beach",
+      departmentOfAntiquities: "",
+      wikipedia: "",
+      audioGuide: "",
+      site: "",
+      virtualTour: "",
+    },
+  },
   "Local Archaeological Kourion Museum, Episkopi": {
     description: `Housed in a traditional building that was once the residence of George McFadden, this museum showcases findings from the extensive archaeological research at Kourion.
 
@@ -1863,6 +1982,23 @@ const Places = {
       wikipedia: "",
       audioGuide: "",
       site: "https://nimac.org.cy",
+      virtualTour: "",
+    },
+  },
+  "Katsarka Beach": {
+    description: `A rocky beach by the picturesque harbour.`,
+    popularity: 72,
+    latitude: 34.985129508547956,
+    longitude: 33.989684905471975,
+    labels: [label.Nature, label.Beach, label.Free],
+    links: {
+      googleMaps: "https://maps.app.goo.gl/PHp4LFyHe3jJ8Q8JA",
+      visitCyprus:
+        "https://www.visitcyprus.com/index.php/en/discovercyprus/sun-sea/beaches/493-katsarka-beach-blue-flag",
+      departmentOfAntiquities: "",
+      wikipedia: "",
+      audioGuide: "",
+      site: "",
       virtualTour: "",
     },
   },
