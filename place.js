@@ -159,6 +159,23 @@ const Places = {
       virtualTour: "",
     },
   },
+  "Nissi Beach": {
+    description: `The golden sandy beach.`,
+    popularity: 5766,
+    latitude: 34.988117924066934,
+    longitude: 33.96876629926081,
+    labels: [label.Nature, label.Beach, label.Free],
+    links: {
+      googleMaps: "https://maps.app.goo.gl/KEHUpUHoAUrxdP9A8",
+      visitCyprus:
+        "https://www.visitcyprus.com/index.php/en/discovercyprus/sun-sea/beaches/498-nissi-beach-blue-flag?cur_lang=en-GB",
+      departmentOfAntiquities: "",
+      wikipedia: "",
+      audioGuide: "",
+      site: "",
+      virtualTour: "",
+    },
+  },
   "Pafos Castle": {
     description: `This medieval castle, originally built as a Byzantine fort, has a rich and varied history.
 
@@ -331,6 +348,23 @@ const Places = {
       virtualTour: "",
     },
   },
+  "Makronisos Beach": {
+    description: `With fine, golden sands and relatively calm, crystal clear seawaters, the small bays extend in different directions.`,
+    popularity: 2260,
+    latitude: 34.98280372844246,
+    longitude: 33.955304303174984,
+    labels: [label.Nature, label.Beach, label.Free],
+    links: {
+      googleMaps: "https://maps.app.goo.gl/tMxvUKzS6miezNfc6",
+      visitCyprus:
+        "https://www.visitcyprus.com/index.php/en/discovercyprus/sun-sea/beaches/497-makronisos-beach-blue-flag?cur_lang=en-GB",
+      departmentOfAntiquities: "",
+      wikipedia: "",
+      audioGuide: "",
+      site: "",
+      virtualTour: "",
+    },
+  },
   "Cyprus Museum, Lefkosia": {
     description: `This museum is the oldest and largest archaeological museum in Cyprus, offering a comprehensive overview of the island’s rich history.
 
@@ -383,6 +417,23 @@ const Places = {
       googleMaps: "https://maps.app.goo.gl/d97NFvmxksMPy9DW8",
       visitCyprus:
         "https://www.visitcyprus.com/index.php/en/discovercyprus/sun-sea/beaches/547-dasoudi-beach-blue-flag",
+      departmentOfAntiquities: "",
+      wikipedia: "",
+      audioGuide: "",
+      site: "",
+      virtualTour: "",
+    },
+  },
+  "Landa Beach": {
+    description: `A long stretch that links popular beaches.`,
+    popularity: 1568,
+    latitude: 34.987367672530176,
+    longitude: 33.95863293693204,
+    labels: [label.Nature, label.Beach, label.Free],
+    links: {
+      googleMaps: "https://maps.app.goo.gl/Woofwg4DNGP3KKab6",
+      visitCyprus:
+        "https://www.visitcyprus.com/index.php/en/discovercyprus/sun-sea/beaches/502-landa-beach-blue-flag?cur_lang=en-GB",
       departmentOfAntiquities: "",
       wikipedia: "",
       audioGuide: "",
@@ -688,6 +739,23 @@ const Places = {
       wikipedia: "",
       audioGuide: "",
       site: "https://cyprusmotormuseum.com.cy",
+      virtualTour: "",
+    },
+  },
+  "Vrysi A Beach": {
+    description: `A popular beach in Paralimni.`,
+    popularity: 730,
+    latitude: 35.016838834969754,
+    longitude: 34.05373611640289,
+    labels: [label.Nature, label.Beach, label.Free],
+    links: {
+      googleMaps: "https://maps.app.goo.gl/dfYu6kB3f9DQeJF18",
+      visitCyprus:
+        "https://www.visitcyprus.com/index.php/en/discovercyprus/sun-sea/beaches/504-vrysi-a-beach-blue-flag?cur_lang=en-GB",
+      departmentOfAntiquities: "",
+      wikipedia: "",
+      audioGuide: "",
+      site: "",
       virtualTour: "",
     },
   },
@@ -1129,6 +1197,23 @@ const Places = {
       virtualTour: "",
     },
   },
+  "Pantachou Beach": {
+    description: `Agia Napa’s longest beach.`,
+    popularity: 275,
+    latitude: 34.98399999687794,
+    longitude: 34.00624484421362,
+    labels: [label.Nature, label.Beach, label.Free],
+    links: {
+      googleMaps: "https://maps.app.goo.gl/MUd69bMQ4Ro2eBcE8",
+      visitCyprus:
+        "https://www.visitcyprus.com/index.php/en/discovercyprus/sun-sea/beaches/500-pantachou-beach-blue-flag?cur_lang=en-GB",
+      departmentOfAntiquities: "",
+      wikipedia: "",
+      audioGuide: "",
+      site: "",
+      virtualTour: "",
+    },
+  },
   "Agios Georgios, Pegeia": {
     description: `This archaeological site features the remains of an early Christian basilica and other significant structures.
 
@@ -1293,6 +1378,23 @@ const Places = {
       virtualTour: "",
     },
   },
+  "Kapparis Beach": {
+    description: `It is the furthest beach in the area and boasts fine, golden sands and crystal-clear seawaters.`,
+    popularity: 215,
+    latitude: 35.05960845937083,
+    longitude: 34.00940950718765,
+    labels: [label.Nature, label.Beach, label.Free],
+    links: {
+      googleMaps: "https://maps.app.goo.gl/jVri86nvaeCybTt79",
+      visitCyprus:
+        "https://www.visitcyprus.com/index.php/en/discovercyprus/sun-sea/beaches/503-kapparis-beach-blue-flag?cur_lang=en-GB",
+      departmentOfAntiquities: "",
+      wikipedia: "",
+      audioGuide: "",
+      site: "",
+      virtualTour: "",
+    },
+  },
   "Limnara (Kermia) Beach": {
     description: `The beach has fine, golden sands and calm, crystal-clear seawaters, with rock pools at the edge of the bay.`,
     popularity: 212,
@@ -1377,6 +1479,23 @@ const Places = {
       wikipedia: "",
       audioGuide: "",
       site: "https://www.cyprusisland.net/cyprus-monasteries/panagia-tou-sinti-monastery",
+      virtualTour: "",
+    },
+  },
+  "Agia Triada Beach": {
+    description: `A beach with quaint surroundings.`,
+    popularity: 172,
+    latitude: 35.050816672348326,
+    longitude: 34.02262296685438,
+    labels: [label.Nature, label.Beach, label.Free],
+    links: {
+      googleMaps: "https://maps.app.goo.gl/pPiEHzQ7Bsi89n16A",
+      visitCyprus:
+        "https://www.visitcyprus.com/index.php/en/discovercyprus/sun-sea/beaches/507-agia-triada-beach-blue-flag?cur_lang=en-GB",
+      departmentOfAntiquities: "",
+      wikipedia: "",
+      audioGuide: "",
+      site: "",
       virtualTour: "",
     },
   },
@@ -1873,6 +1992,23 @@ const Places = {
       wikipedia: "",
       audioGuide:
         "https://www.visitcyprus.com/index.php/en/discovercyprus/culture/audio-guides/150-the-church-of-panagia-tou-moutoulla-audio-guide",
+      site: "",
+      virtualTour: "",
+    },
+  },
+  "Loukkos tou Mandi Beach": {
+    description: `A combination of sandy and rocky patches.`,
+    popularity: 85,
+    latitude: 34.98256908701781,
+    longitude: 33.99816491771386,
+    labels: [label.Nature, label.Beach, label.Free],
+    links: {
+      googleMaps: "https://maps.app.goo.gl/jirCjQFsdM5JjeJh8",
+      visitCyprus:
+        "https://www.visitcyprus.com/index.php/en/discovercyprus/sun-sea/beaches/496-loukkos-tou-mandi-beach-blue-flag?cur_lang=en-GB",
+      departmentOfAntiquities: "",
+      wikipedia: "",
+      audioGuide: "",
       site: "",
       virtualTour: "",
     },
