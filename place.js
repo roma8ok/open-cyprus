@@ -441,6 +441,23 @@ const Places = {
       virtualTour: "",
     },
   },
+  "Mackenzie Beach": {
+    description: `It is a 1 km long strip with fine sands of varying shades of brown and beige, calm, clear and shallow seawaters, and abundant greenery.`,
+    popularity: 1525,
+    latitude: 34.88953032195462,
+    longitude: 33.637722727221124,
+    labels: [label.Nature, label.Beach, label.Free],
+    links: {
+      googleMaps: "https://maps.app.goo.gl/wia9eR2VB2NSyQ326",
+      visitCyprus:
+        "https://www.visitcyprus.com/index.php/en/discovercyprus/sun-sea/beaches/513-mckenzie-beach-blue-flag?cur_lang=en-GB",
+      departmentOfAntiquities: "",
+      wikipedia: "",
+      audioGuide: "",
+      site: "",
+      virtualTour: "",
+    },
+  },
   "Choirokoitia (Khirokitia)": {
     description: `This archaeological site is one of the most important and well-preserved Neolithic settlements in Cyprus.
 
@@ -546,6 +563,23 @@ const Places = {
       googleMaps: "https://maps.app.goo.gl/163rxLSRr1qFXaPj9",
       visitCyprus:
         "https://www.visitcyprus.com/index.php/en/discovercyprus/culture/sites-monuments/254-early-christian-basilica-st-paul-s-pillar-chrysopolitissa-agia-kyriaki-church?cur_lang=en-GB",
+      departmentOfAntiquities: "",
+      wikipedia: "",
+      audioGuide: "",
+      site: "",
+      virtualTour: "",
+    },
+  },
+  "Protaras Beach (Fig Tree Bay)": {
+    description: `Located in the popular tourist resort of Protaras in the popular holiday town of Paralimni, the popular beach of Protaras - better known as Fig Tree Bay - boasts fine, golden sands and crystal-clear waters. It takes its name from a single, solitary fig tree that has been there since the 17th century.`,
+    popularity: 1071,
+    latitude: 35.01244741614806,
+    longitude: 34.05874930152106,
+    labels: [label.Nature, label.Beach, label.Free],
+    links: {
+      googleMaps: "https://maps.app.goo.gl/2UHR6Q59xuBJGCba9",
+      visitCyprus:
+        "https://www.visitcyprus.com/index.php/en/discovercyprus/sun-sea/beaches/511-protaras-beach-fig-tree-bay-blue-flag?cur_lang=en-GB",
       departmentOfAntiquities: "",
       wikipedia: "",
       audioGuide: "",
@@ -782,6 +816,23 @@ const Places = {
       virtualTour: "",
     },
   },
+  "Pernera P Beach": {
+    description: `A secluded resort beach.`,
+    popularity: 629,
+    latitude: 35.03206400981347,
+    longitude: 34.041852947453535,
+    labels: [label.Nature, label.Beach, label.Free],
+    links: {
+      googleMaps: "https://maps.app.goo.gl/VkdRQgZr2Z3b2isT9",
+      visitCyprus:
+        "https://www.visitcyprus.com/index.php/en/discovercyprus/sun-sea/beaches/510-pernera-p-beach-paralimni-blue-flag?cur_lang=en-GB",
+      departmentOfAntiquities: "",
+      wikipedia: "",
+      audioGuide: "",
+      site: "",
+      virtualTour: "",
+    },
+  },
   "Agia Solomoni Christian Catacomb": {
     description: `These ancient catacombs, dating back to the Hellenistic period, serve as a significant Christian pilgrimage site.
 
@@ -919,6 +970,23 @@ const Places = {
       wikipedia: "",
       audioGuide:
         "https://www.visitcyprus.com/index.php/en/discovercyprus/culture/audio-guides/144-monastery-of-agios-ioannis-lampadistis-audio-guide",
+      site: "",
+      virtualTour: "",
+    },
+  },
+  "Skoutarospilioi Beach": {
+    description: `The beach is a combination of sand and rocks and it has crystal clear waters.`,
+    popularity: 530,
+    latitude: 35.05492299888613,
+    longitude: 34.015099321818255,
+    labels: [label.Nature, label.Beach, label.Free],
+    links: {
+      googleMaps: "https://maps.app.goo.gl/Z1RkBXKZxHUYvkGHA",
+      visitCyprus:
+        "https://www.visitcyprus.com/index.php/en/discovercyprus/sun-sea/beaches/335006-skoutarospilioi-beach-blue-flag?cur_lang=en-GB",
+      departmentOfAntiquities: "",
+      wikipedia: "",
+      audioGuide: "",
       site: "",
       virtualTour: "",
     },
@@ -1098,6 +1166,23 @@ const Places = {
         "https://www.visitcyprus.com/index.php/en/discovercyprus/culture/sites-monuments/177-kition-archaeological-site?cur_lang=en-GB",
       departmentOfAntiquities:
         "http://www.culture.gov.cy/dmculture/DA/DA.nsf/All/7A7351CF22898DFEC22571A4002CA21C?OpenDocument",
+      wikipedia: "",
+      audioGuide: "",
+      site: "",
+      virtualTour: "",
+    },
+  },
+  "Nisia Loumbardi Beach": {
+    description: `A pretty beach.`,
+    popularity: 344,
+    latitude: 35.00124597640588,
+    longitude: 34.065337534042605,
+    labels: [label.Nature, label.Beach, label.Free],
+    links: {
+      googleMaps: "https://maps.app.goo.gl/hZXX82ni2rTZzNmdA",
+      visitCyprus:
+        "https://www.visitcyprus.com/index.php/en/discovercyprus/sun-sea/beaches/509-nisia-loumbardi-beach-blue-flag?cur_lang=en-GB",
+      departmentOfAntiquities: "",
       wikipedia: "",
       audioGuide: "",
       site: "",
@@ -2481,6 +2566,23 @@ const Places = {
       visitCyprus: "",
       departmentOfAntiquities:
         "http://www.culture.gov.cy/dmculture/DA/DA.nsf/All/09FEF352D9F1AC8AC2257199003551D5?OpenDocument",
+      wikipedia: "",
+      audioGuide: "",
+      site: "",
+      virtualTour: "",
+    },
+  },
+  "Potami beach": {
+    description: `The beach is a combination of sand and pebbles and it has crystal clear seawaters.`,
+    popularity: 48,
+    latitude: 35.02880642589075,
+    longitude: 34.04516736411928,
+    labels: [label.Nature, label.Beach, label.Free],
+    links: {
+      googleMaps: "https://maps.app.goo.gl/aEofTzFdVsw9qrX5A",
+      visitCyprus:
+        "https://www.visitcyprus.com/index.php/en/discovercyprus/sun-sea/beaches/335004-potami-beach-blue-flag?cur_lang=en-GB",
+      departmentOfAntiquities: "",
       wikipedia: "",
       audioGuide: "",
       site: "",
