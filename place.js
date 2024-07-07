@@ -323,6 +323,40 @@ const Places = {
       virtualTour: "",
     },
   },
+  "Coral Bay Beach": {
+    description: `The sands are deep golden, and the clean seawaters here are calm and shallow, making it a popular choice for all, including families with children. The beach is enclosed by a pair of limestone headlands and has abundant greenery, further enhancing its beauty.`,
+    popularity: 2647,
+    latitude: 34.854109067055184,
+    longitude: 32.369376202027595,
+    labels: [label.Nature, label.Beach, label.Museum],
+    links: {
+      googleMaps: "https://maps.app.goo.gl/yQouF3bBXvRi7APK8",
+      visitCyprus:
+        "https://www.visitcyprus.com/index.php/en/discovercyprus/sun-sea/beaches/541-coral-bay-beach-blue-flag?cur_lang=en-GB",
+      departmentOfAntiquities: "",
+      wikipedia: "",
+      audioGuide: "",
+      site: "",
+      virtualTour: "",
+    },
+  },
+  "Makronisos Beach": {
+    description: `With fine, golden sands and relatively calm, crystal clear seawaters, the small bays extend in different directions.`,
+    popularity: 2260,
+    latitude: 34.98280372844246,
+    longitude: 33.955304303174984,
+    labels: [label.Nature, label.Beach, label.Free],
+    links: {
+      googleMaps: "https://maps.app.goo.gl/tMxvUKzS6miezNfc6",
+      visitCyprus:
+        "https://www.visitcyprus.com/index.php/en/discovercyprus/sun-sea/beaches/497-makronisos-beach-blue-flag?cur_lang=en-GB",
+      departmentOfAntiquities: "",
+      wikipedia: "",
+      audioGuide: "",
+      site: "",
+      virtualTour: "",
+    },
+  },
   "The Engleistra (Place of Seclusion) and the Monastery of Agios Neophytos": {
     description: `This monastery, founded by Saint Neophytos in the 12th century, is a remarkable example of religious and historical significance.
 
@@ -348,23 +382,6 @@ const Places = {
       virtualTour: "",
     },
   },
-  "Makronisos Beach": {
-    description: `With fine, golden sands and relatively calm, crystal clear seawaters, the small bays extend in different directions.`,
-    popularity: 2260,
-    latitude: 34.98280372844246,
-    longitude: 33.955304303174984,
-    labels: [label.Nature, label.Beach, label.Free],
-    links: {
-      googleMaps: "https://maps.app.goo.gl/tMxvUKzS6miezNfc6",
-      visitCyprus:
-        "https://www.visitcyprus.com/index.php/en/discovercyprus/sun-sea/beaches/497-makronisos-beach-blue-flag?cur_lang=en-GB",
-      departmentOfAntiquities: "",
-      wikipedia: "",
-      audioGuide: "",
-      site: "",
-      virtualTour: "",
-    },
-  },
   "Cyprus Museum, Lefkosia": {
     description: `This museum is the oldest and largest archaeological museum in Cyprus, offering a comprehensive overview of the island’s rich history.
 
@@ -386,6 +403,23 @@ const Places = {
       wikipedia: "",
       audioGuide:
         "https://www.visitcyprus.com/index.php/en/discovercyprus/culture/audio-guides/152-the-cyprus-museum-audio-guide",
+      site: "",
+      virtualTour: "",
+    },
+  },
+  "Lady’s Mile Beach": {
+    description: `An unspoiled and beautiful coastline.`,
+    popularity: 1794,
+    latitude: 34.61466508364129,
+    longitude: 33.00540628312398,
+    labels: [label.Nature, label.Beach, label.Free],
+    links: {
+      googleMaps: "https://maps.app.goo.gl/VUrNm3PRkRcmPsNA8",
+      visitCyprus:
+        "https://www.visitcyprus.com/index.php/en/discovercyprus/sun-sea/beaches/534-lady-s-mile-beach?cur_lang=en-GB",
+      departmentOfAntiquities: "",
+      wikipedia: "",
+      audioGuide: "",
       site: "",
       virtualTour: "",
     },
@@ -499,6 +533,23 @@ const Places = {
       googleMaps: "https://maps.app.goo.gl/6L1dQqn8kKCmMWaaA",
       visitCyprus:
         "https://www.visitcyprus.com/index.php/en/discovercyprus/culture/sites-monuments/188-kamares-aqueduct?cur_lang=en-GB",
+      departmentOfAntiquities: "",
+      wikipedia: "",
+      audioGuide: "",
+      site: "",
+      virtualTour: "",
+    },
+  },
+  "Kastella Beach": {
+    description: `A small ‘tropical’ beach.`,
+    popularity: 1173,
+    latitude: 34.89808801939707,
+    longitude: 33.639257655560066,
+    labels: [label.Nature, label.Beach, label.Free],
+    links: {
+      googleMaps: "https://maps.app.goo.gl/Au1btaXbuamB6FHn7",
+      visitCyprus:
+        "https://www.visitcyprus.com/index.php/en/discovercyprus/sun-sea/beaches/514-kastella-beach-larnaka-larnaca?cur_lang=en-GB",
       departmentOfAntiquities: "",
       wikipedia: "",
       audioGuide: "",
@@ -629,6 +680,23 @@ const Places = {
         "https://www.visitcyprus.com/index.php/en/discovercyprus/culture/sites-monuments/217-amathous-archaeological-site?cur_lang=en-GB",
       departmentOfAntiquities:
         "http://www.culture.gov.cy/dmculture/DA/DA.nsf/All/D20ED526826AB796C225719B00374A92?OpenDocument",
+      wikipedia: "",
+      audioGuide: "",
+      site: "",
+      virtualTour: "",
+    },
+  },
+  "Pissouri Beach": {
+    description: `The beach has fine, golden sands, multicoloured small pebbles, and its clean waters are relatively calm. Its surroundings are further enhanced by the spectacular white cliffs of Cape Aspro (Cape ‘white’) on either side, making it one of the most picturesque coastlines on the island.`,
+    popularity: 962,
+    latitude: 34.649222970708784,
+    longitude: 32.720315657893266,
+    labels: [label.Nature, label.Beach, label.Free],
+    links: {
+      googleMaps: "https://maps.app.goo.gl/fYkhLNtVhCXMxkFZ7",
+      visitCyprus:
+        "https://www.visitcyprus.com/index.php/en/discovercyprus/sun-sea/beaches/531-pissouri-beach-blue-flag?cur_lang=en-GB",
+      departmentOfAntiquities: "",
       wikipedia: "",
       audioGuide: "",
       site: "",
@@ -793,6 +861,23 @@ const Places = {
       virtualTour: "",
     },
   },
+  "Kourion Beach": {
+    description: `A beautiful beach with an ancient history.`,
+    popularity: 694,
+    latitude: 34.66590127951295,
+    longitude: 32.87712564731124,
+    labels: [label.Nature, label.Beach, label.Free],
+    links: {
+      googleMaps: "https://maps.app.goo.gl/HCEnPxdYAzxaigxh6",
+      visitCyprus:
+        "https://www.visitcyprus.com/index.php/en/discovercyprus/sun-sea/beaches/525-kourion-beach-blue-flag?cur_lang=en-GB",
+      departmentOfAntiquities: "",
+      wikipedia: "",
+      audioGuide: "",
+      site: "",
+      virtualTour: "",
+    },
+  },
   "Trooditissa Monastery": {
     description: `Nestled in the beautiful Troodos Mountains, this historic monastery dates back to the 13th century and is dedicated to the Virgin Mary.
 
@@ -895,6 +980,23 @@ const Places = {
       googleMaps: "https://maps.app.goo.gl/WHbTTfeFhZKrWtHU6",
       visitCyprus:
         "https://www.visitcyprus.com/index.php/en/discovercyprus/culture/sites-monuments/216-agios-nikolaos-ton-gaton-convent-st-nicholas-of-the-cats-convent?cur_lang=en-GB",
+      departmentOfAntiquities: "",
+      wikipedia: "",
+      audioGuide: "",
+      site: "",
+      virtualTour: "",
+    },
+  },
+  "Camping Site (Dasoudi Beach), Polis Chrysochous": {
+    description: `A favourite beach to camp on.`,
+    popularity: 569,
+    latitude: 35.04249213189953,
+    longitude: 32.41905707773691,
+    labels: [label.Nature, label.Beach, label.Free],
+    links: {
+      googleMaps: "https://maps.app.goo.gl/sgZi5SmQNpJHYRyAA",
+      visitCyprus:
+        "https://www.visitcyprus.com/index.php/en/discovercyprus/sun-sea/beaches/542-camping-site-dasoudi-beach-polis-chrysochous-blue-flag?cur_lang=en-GB",
       departmentOfAntiquities: "",
       wikipedia: "",
       audioGuide: "",
@@ -1189,6 +1291,23 @@ const Places = {
       virtualTour: "",
     },
   },
+  "Polis Chrysochous Municipal Beach": {
+    description: `The sands are deep golden, and the clean seawaters here are calm, making it a popular choice for all, including families with children.`,
+    popularity: 335,
+    latitude: 35.039133482846104,
+    longitude: 32.40422993245068,
+    labels: [label.Nature, label.Beach, label.Free],
+    links: {
+      googleMaps: "https://maps.app.goo.gl/gaRiLY3Fu4hJudtZ7",
+      visitCyprus:
+        "https://www.visitcyprus.com/index.php/en/discovercyprus/sun-sea/beaches/543-polis-chrysochous-municipal-beach-blue-flag?cur_lang=en-GB",
+      departmentOfAntiquities: "",
+      wikipedia: "",
+      audioGuide: "",
+      site: "",
+      virtualTour: "",
+    },
+  },
   "Church of Agios Nikolaos tis Stegis (St. Nicholas of the Roof), Kakopetria":
     {
       description: `This Byzantine church, dedicated to St. Nicholas, is renowned for its unique architectural design with a steep-pitched roof, which gives it the name ‘St. Nicholas of the Roof.’
@@ -1275,6 +1394,23 @@ const Places = {
       googleMaps: "https://maps.app.goo.gl/6PLye9xnMK12dfaQ7",
       visitCyprus:
         "https://www.visitcyprus.com/index.php/en/discovercyprus/sun-sea/beaches/489-agia-thekla-beach-blue-flag",
+      departmentOfAntiquities: "",
+      wikipedia: "",
+      audioGuide: "",
+      site: "",
+      virtualTour: "",
+    },
+  },
+  "Vrysoudia B Beach": {
+    description: `A coastal front with a cultural backdrop.`,
+    popularity: 276,
+    latitude: 34.751469801635025,
+    longitude: 32.42036165775987,
+    labels: [label.Nature, label.Beach, label.Free],
+    links: {
+      googleMaps: "https://maps.app.goo.gl/HQR2h9ACeQEURSqu7",
+      visitCyprus:
+        "https://www.visitcyprus.com/index.php/en/discovercyprus/sun-sea/beaches/539-vrysoudia-b-beach-blue-flag?cur_lang=en-GB",
       departmentOfAntiquities: "",
       wikipedia: "",
       audioGuide: "",
@@ -1473,6 +1609,23 @@ const Places = {
       googleMaps: "https://maps.app.goo.gl/jVri86nvaeCybTt79",
       visitCyprus:
         "https://www.visitcyprus.com/index.php/en/discovercyprus/sun-sea/beaches/503-kapparis-beach-blue-flag?cur_lang=en-GB",
+      departmentOfAntiquities: "",
+      wikipedia: "",
+      audioGuide: "",
+      site: "",
+      virtualTour: "",
+    },
+  },
+  "Akti Olympion B Beach": {
+    description: `A coastal strip full of amenities.`,
+    popularity: 214,
+    latitude: 34.68596542796898,
+    longitude: 33.0634314798662,
+    labels: [label.Nature, label.Beach, label.Free],
+    links: {
+      googleMaps: "https://maps.app.goo.gl/Zaz9fJ2vU5pi4d5o9",
+      visitCyprus:
+        "https://www.visitcyprus.com/index.php/en/discovercyprus/sun-sea/beaches/518-akti-olympion-b-beach-blue-flag?cur_lang=en-GB",
       departmentOfAntiquities: "",
       wikipedia: "",
       audioGuide: "",
@@ -1810,6 +1963,23 @@ const Places = {
       virtualTour: "",
     },
   },
+  "Geroskipou Laiki Beach": {
+    description: `It is a sandy beach with clean seawaters that are calm and shallow.`,
+    popularity: 150,
+    latitude: 34.73281827247799,
+    longitude: 32.45237802310483,
+    labels: [label.Nature, label.Beach, label.Free],
+    links: {
+      googleMaps: "https://maps.app.goo.gl/U3brXLEjRN8MjEVk9",
+      visitCyprus:
+        "https://www.visitcyprus.com/index.php/en/discovercyprus/sun-sea/beaches/335007-geroskipou-laiki-beach-blue-flag?cur_lang=en-GB",
+      departmentOfAntiquities: "",
+      wikipedia: "",
+      audioGuide: "",
+      site: "",
+      virtualTour: "",
+    },
+  },
   "Famagusta Gate (Pyli Ammochostou)": {
     description: `This historical gate is one of the three entrances into the old city, originally constructed in 1567 as part of the Venetian fortifications.
 
@@ -1851,6 +2021,23 @@ const Places = {
       wikipedia: "",
       audioGuide: "",
       site: "http://www.cypruscatholicchurch.org/limassol",
+      virtualTour: "",
+    },
+  },
+  "Alykes Beach": {
+    description: `A great beach in the heart of Paphos tourist area.`,
+    popularity: 141,
+    latitude: 34.75410973049185,
+    longitude: 32.41803000053509,
+    labels: [label.Nature, label.Beach, label.Free],
+    links: {
+      googleMaps: "https://maps.app.goo.gl/t46VKrBGpGmzuYzU6",
+      visitCyprus:
+        "https://www.visitcyprus.com/index.php/en/discovercyprus/sun-sea/beaches/535-alykes-beach-blue-flag?cur_lang=en-GB",
+      departmentOfAntiquities: "",
+      wikipedia: "",
+      audioGuide: "",
+      site: "",
       virtualTour: "",
     },
   },
@@ -1900,6 +2087,23 @@ const Places = {
       virtualTour: "",
     },
   },
+  "Armonia Beach": {
+    description: `A narrow strip protected from winds.`,
+    popularity: 121,
+    latitude: 34.70591330596799,
+    longitude: 33.11919140972786,
+    labels: [label.Nature, label.Beach, label.Free],
+    links: {
+      googleMaps: "https://maps.app.goo.gl/73aEfb8fZEVaEqYx8",
+      visitCyprus:
+        "https://www.visitcyprus.com/index.php/en/discovercyprus/sun-sea/beaches/521-armonia-beach-blue-flag?cur_lang=en-GB",
+      departmentOfAntiquities: "",
+      wikipedia: "",
+      audioGuide: "",
+      site: "",
+      virtualTour: "",
+    },
+  },
   "The Steni Museum of Village Life": {
     description: `This museum is a tribute to the villagers of Steni, showcasing their daily life from the village’s founding until the end of World War II.
 
@@ -1940,6 +2144,23 @@ const Places = {
       visitCyprus: "",
       departmentOfAntiquities:
         "http://www.culture.gov.cy/dmculture/DA/DA.nsf/All/3F2CF6E8B9E9BF3DC2257DE7002DFE14?OpenDocument",
+      wikipedia: "",
+      audioGuide: "",
+      site: "",
+      virtualTour: "",
+    },
+  },
+  "Municipal Baths Beach": {
+    description: `It combines chic wooden decking with sandy sections.`,
+    popularity: 110,
+    latitude: 34.7556091532825,
+    longitude: 32.416008910496274,
+    labels: [label.Nature, label.Beach, label.Free],
+    links: {
+      googleMaps: "https://maps.app.goo.gl/KSuHyz5mHHJuafnGA",
+      visitCyprus:
+        "https://www.visitcyprus.com/index.php/en/discovercyprus/sun-sea/beaches/537-municipal-baths-beach-blue-flag?cur_lang=en-GB",
+      departmentOfAntiquities: "",
       wikipedia: "",
       audioGuide: "",
       site: "",
@@ -2137,6 +2358,23 @@ const Places = {
       virtualTour: "",
     },
   },
+  "Kafizis Beach": {
+    description: `The beach has small pebbles and clean waters that are rather deep . Some rock formations, inside and outside of the water, contribute to the beach’s wild beauty.`,
+    popularity: 80,
+    latitude: 34.89464190239285,
+    longitude: 32.32306623001971,
+    labels: [label.Nature, label.Beach, label.Free],
+    links: {
+      googleMaps: "https://maps.app.goo.gl/LYScR9HBwENy3QBZ6",
+      visitCyprus:
+        "https://www.visitcyprus.com/index.php/en/discovercyprus/sun-sea/beaches/316200-kafizis-beach-blue-flag?cur_lang=en-GB",
+      departmentOfAntiquities: "",
+      wikipedia: "",
+      audioGuide: "",
+      site: "",
+      virtualTour: "",
+    },
+  },
   "Loutra - Ottoman Hamam": {
     description: `Located near the old marketplace in Pafos, this stone-vaulted Ottoman Hamam features three areas: a reception area, an intermediate area, and the main baths.
 
@@ -2206,6 +2444,23 @@ const Places = {
       virtualTour: "",
     },
   },
+  "Panagies Beach": {
+    description: `A prime location by a yacht marina.`,
+    popularity: 74,
+    latitude: 34.711517821841106,
+    longitude: 33.168849721354846,
+    labels: [label.Nature, label.Beach, label.Free],
+    links: {
+      googleMaps: "https://maps.app.goo.gl/hWPBkafZAWbA6RTE6",
+      visitCyprus:
+        "https://www.visitcyprus.com/index.php/en/discovercyprus/sun-sea/beaches/529-panagies-beach-blue-flag?cur_lang=en-GB",
+      departmentOfAntiquities: "",
+      wikipedia: "",
+      audioGuide: "",
+      site: "",
+      virtualTour: "",
+    },
+  },
   "Katsarka Beach": {
     description: `A rocky beach by the picturesque harbour.`,
     popularity: 72,
@@ -2261,6 +2516,23 @@ const Places = {
       googleMaps: "https://maps.app.goo.gl/yWJvmrwCBY5n2Wvd6",
       visitCyprus:
         "https://www.visitcyprus.com/index.php/en/discovercyprus/culture/sites-monuments/192-bayraktar-mosque?cur_lang=en-GB",
+      departmentOfAntiquities: "",
+      wikipedia: "",
+      audioGuide: "",
+      site: "",
+      virtualTour: "",
+    },
+  },
+  "Onisilos Beach": {
+    description: ` Its clean seawaters are protected from winds by breakwaters.`,
+    popularity: 70,
+    latitude: 34.704465157018845,
+    longitude: 33.11441935061409,
+    labels: [label.Nature, label.Beach, label.Free],
+    links: {
+      googleMaps: "https://maps.app.goo.gl/DvgeKatm9gJpgVao8",
+      visitCyprus:
+        "https://www.visitcyprus.com/index.php/en/discovercyprus/sun-sea/beaches/528-onisilos-beach-blue-flag?cur_lang=en-GB",
       departmentOfAntiquities: "",
       wikipedia: "",
       audioGuide: "",
@@ -2549,6 +2821,23 @@ const Places = {
       virtualTour: "",
     },
   },
+  "Vouppa Beach": {
+    description: `The favourite beach for year-round swimmers.`,
+    popularity: 50,
+    latitude: 34.7081108288789,
+    longitude: 33.12856210554001,
+    labels: [label.Nature, label.Beach, label.Free],
+    links: {
+      googleMaps: "https://maps.app.goo.gl/XZBgw9ZsLKV89gUr9",
+      visitCyprus:
+        "https://www.visitcyprus.com/index.php/en/discovercyprus/sun-sea/beaches/533-vouppa-beach-blue-flag?cur_lang=en-GB",
+      departmentOfAntiquities: "",
+      wikipedia: "",
+      audioGuide: "",
+      site: "",
+      virtualTour: "",
+    },
+  },
   "Church of the Transfiguration of the Saviour, Palaichori": {
     description: `Built in the 16th century, this church is known for its exceptional frescoes that cover its interior walls.
 
@@ -2650,6 +2939,23 @@ const Places = {
       visitCyprus: "",
       departmentOfAntiquities:
         "http://www.culture.gov.cy/dmculture/DA/DA.nsf/All/D29999253080F9BBC2257199002134BD?OpenDocument",
+      wikipedia: "",
+      audioGuide: "",
+      site: "",
+      virtualTour: "",
+    },
+  },
+  "Pachyammos Beach": {
+    description: `A sandy beach.`,
+    popularity: 40,
+    latitude: 34.74374464503774,
+    longitude: 32.42589974937381,
+    labels: [label.Nature, label.Beach, label.Free],
+    links: {
+      googleMaps: "https://maps.app.goo.gl/9ATgLa2qxQY7eHct9",
+      visitCyprus:
+        "https://www.visitcyprus.com/index.php/en/discovercyprus/sun-sea/beaches/546-pachyammos-1-beach-geroskipou-pafos-paphos-blue-flag?cur_lang=en-GB",
+      departmentOfAntiquities: "",
       wikipedia: "",
       audioGuide: "",
       site: "",
@@ -2890,6 +3196,23 @@ const Places = {
       virtualTour: "",
     },
   },
+  "Parekklishia Community Beach": {
+    description: `An abundantly sandy coast.`,
+    popularity: 30,
+    latitude: 34.71133612867007,
+    longitude: 33.16536796172325,
+    labels: [label.Nature, label.Beach, label.Free],
+    links: {
+      googleMaps: "https://maps.app.goo.gl/7SF8V86K9jLKM4QH6",
+      visitCyprus:
+        "https://www.visitcyprus.com/index.php/en/discovercyprus/sun-sea/beaches/530-parekklishia-community-beach-blue-flag?cur_lang=en-GB",
+      departmentOfAntiquities: "",
+      wikipedia: "",
+      audioGuide: "",
+      site: "",
+      virtualTour: "",
+    },
+  },
   "Cyprus Postal Museum": {
     description: `Located within the walled city of Lefkosia (Nicosia), the Cyprus Postal Museum was founded in 1981 to exhibit the island’s rich postal history.
 
@@ -2904,6 +3227,23 @@ const Places = {
       googleMaps: "https://maps.app.goo.gl/DpwyCERDW2Cr9N447",
       visitCyprus:
         "https://www.visitcyprus.com/index.php/en/discovercyprus/culture/museums-galleries/120-cyprus-postal-museum?cur_lang=en-GB",
+      departmentOfAntiquities: "",
+      wikipedia: "",
+      audioGuide: "",
+      site: "",
+      virtualTour: "",
+    },
+  },
+  "Xystarokampos Beach": {
+    description: `The beach has fine sands with multicoloured small pebbles and blue clean waters.`,
+    popularity: 28,
+    latitude: 35.04639945097545,
+    longitude: 32.36194127708966,
+    labels: [label.Nature, label.Beach, label.Free],
+    links: {
+      googleMaps: "https://maps.app.goo.gl/ZddUqvh4VDk5m7fR8",
+      visitCyprus:
+        "https://www.visitcyprus.com/index.php/en/discovercyprus/sun-sea/beaches/272519-xystarokampos-beach-blue-flag?cur_lang=en-GB",
       departmentOfAntiquities: "",
       wikipedia: "",
       audioGuide: "",
@@ -3004,6 +3344,23 @@ const Places = {
       audioGuide: "",
       site: "https://www.kyriazismedical.museum",
       virtualTour: "https://virtuallarnakaregion.com/KyriazisMedicalMuseum/",
+    },
+  },
+  "Yanathes Beach": {
+    description: `A sandy, eco-friendly beach.`,
+    popularity: 22,
+    latitude: 34.972816508406346,
+    longitude: 33.680006223472674,
+    labels: [label.Nature, label.Beach, label.Free],
+    links: {
+      googleMaps: "https://maps.app.goo.gl/bQ4Teo49BCfer5Cj9",
+      visitCyprus:
+        "https://www.visitcyprus.com/index.php/en/discovercyprus/sun-sea/beaches/515-yanathes-beach-blue-flag?cur_lang=en-GB",
+      departmentOfAntiquities: "",
+      wikipedia: "",
+      audioGuide: "",
+      site: "",
+      virtualTour: "",
     },
   },
   "Maa-Palaiokastro (Palaeokastro)": {
@@ -3136,6 +3493,23 @@ const Places = {
       googleMaps: "https://maps.app.goo.gl/WtroHrTJS322PQ7a9",
       visitCyprus:
         "https://www.visitcyprus.com/index.php/en/discovercyprus/culture/museums-galleries/119-cyprus-police-museum?cur_lang=en-GB",
+      departmentOfAntiquities: "",
+      wikipedia: "",
+      audioGuide: "",
+      site: "",
+      virtualTour: "",
+    },
+  },
+  "Aoratoi Beach": {
+    description: `Its unique combination of semi-circular sandy coves and large flat rocks run parallel to the shore, and the large, shallow pools of water make it especially ideal for children and toddlers.`,
+    popularity: 19,
+    latitude: 34.71092964027333,
+    longitude: 33.173698340108466,
+    labels: [label.Nature, label.Beach, label.Free],
+    links: {
+      googleMaps: "https://maps.app.goo.gl/KpCM315oqfmxFUVB7",
+      visitCyprus:
+        "https://www.visitcyprus.com/index.php/en/discovercyprus/sun-sea/beaches/519-aoratoi-beach-blue-flag?cur_lang=en-GB",
       departmentOfAntiquities: "",
       wikipedia: "",
       audioGuide: "",
@@ -3351,6 +3725,23 @@ const Places = {
       virtualTour: "",
     },
   },
+  "Loures Beach": {
+    description: `It is a scenic rocky and sandy beach with calm, clean waters.`,
+    popularity: 9,
+    latitude: 34.70883115150464,
+    longitude: 33.13469636657612,
+    labels: [label.Nature, label.Beach, label.Free],
+    links: {
+      googleMaps: "https://maps.app.goo.gl/SBMYeHbbimnfqLKJ6",
+      visitCyprus:
+        "https://www.visitcyprus.com/index.php/en/discovercyprus/sun-sea/beaches/526-loures-beach-blue-flag?cur_lang=en-GB",
+      departmentOfAntiquities: "",
+      wikipedia: "",
+      audioGuide: "",
+      site: "",
+      virtualTour: "",
+    },
+  },
   "Agios Kirykos and Agia Ioulitti Church": {
     description: `The Church of Agios Kirykos and Agia Ioulitti is a cross-in-square domed church dating back to the 12th century.
 
@@ -3427,6 +3818,25 @@ const Places = {
       virtualTour: "",
     },
   },
+  "Agia Anastasia Church": {
+    description: `Agia Anastasia Church stands as a remarkable example of Byzantine architecture, renowned for its well-preserved frescoes and intricate iconography. The church offers a serene and spiritual atmosphere, making it a popular site for both worship and tourism.
+
+    Visitors can explore its historical significance and enjoy the peaceful setting, which provides a glimpse into the rich religious heritage of the area. The church’s architectural beauty and spiritual ambiance are key highlights for those interested in history and culture.`,
+    popularity: 7,
+    latitude: 34.700919,
+    longitude: 32.999997,
+    labels: [label.HistoricalLandmark, label.Free],
+    links: {
+      googleMaps: "https://maps.app.goo.gl/q9tsd6hHi9qcuJiw5",
+      visitCyprus:
+        "https://www.visitcyprus.com/index.php/en/discovercyprus/culture/sites-monuments/230-agia-anastasia-church?cur_lang=en-GB",
+      departmentOfAntiquities: "",
+      wikipedia: "",
+      audioGuide: "",
+      site: "",
+      virtualTour: "",
+    },
+  },
   "Royal Chapel of Agia Aikaterini (St. Catherine), Pyrga": {
     description: `This historic chapel, dating back to the 15th century, is renowned for its exquisite frescoes that depict various religious scenes. The chapel was commissioned by the Lusignan kings, reflecting the blend of Byzantine and Gothic architectural styles.
 
@@ -3441,6 +3851,23 @@ const Places = {
         "https://www.visitcyprus.com/index.php/en/discovercyprus/culture/sites-monuments/179-royal-chapel-of-agia-aikaterini-st-catherine-pyrga-village?cur_lang=en-GB",
       departmentOfAntiquities:
         "http://www.culture.gov.cy/dmculture/DA/DA.nsf/All/40727CE6E1B36148C225719900323A59?OpenDocument",
+      wikipedia: "",
+      audioGuide: "",
+      site: "",
+      virtualTour: "",
+    },
+  },
+  "Faros Beach": {
+    description: `A picturesque village coast.`,
+    popularity: 6,
+    latitude: 34.821508,
+    longitude: 33.604348,
+    labels: [label.Nature, label.Beach, label.Free],
+    links: {
+      googleMaps: "https://maps.app.goo.gl/iHktZxFPAi1pVbKr9",
+      visitCyprus:
+        "https://www.visitcyprus.com/index.php/en/discovercyprus/sun-sea/beaches/516-faros-beach-pervolia-larnaka-larnaca-blue-flag?cur_lang=en-GB",
+      departmentOfAntiquities: "",
       wikipedia: "",
       audioGuide: "",
       site: "",
@@ -3522,25 +3949,6 @@ const Places = {
       virtualTour: "",
     },
   },
-  "Agia Anastasia Church": {
-    description: `Agia Anastasia Church stands as a remarkable example of Byzantine architecture, renowned for its well-preserved frescoes and intricate iconography. The church offers a serene and spiritual atmosphere, making it a popular site for both worship and tourism.
-
-    Visitors can explore its historical significance and enjoy the peaceful setting, which provides a glimpse into the rich religious heritage of the area. The church’s architectural beauty and spiritual ambiance are key highlights for those interested in history and culture.`,
-    popularity: 7,
-    latitude: 34.700919,
-    longitude: 32.999997,
-    labels: [label.HistoricalLandmark, label.Free],
-    links: {
-      googleMaps: "https://maps.app.goo.gl/q9tsd6hHi9qcuJiw5",
-      visitCyprus:
-        "https://www.visitcyprus.com/index.php/en/discovercyprus/culture/sites-monuments/230-agia-anastasia-church?cur_lang=en-GB",
-      departmentOfAntiquities: "",
-      wikipedia: "",
-      audioGuide: "",
-      site: "",
-      virtualTour: "",
-    },
-  },
   "Folklore Museum ‘Kostas Kaimakliotis’ - Aradippou": {
     description: `The Folklore Museum ‘Kostas Kaimakliotis’ in Aradippou showcases traditional Cypriot life and culture. The museum features a collection of artifacts, tools, and textiles that reflect the daily life and customs of the region’s past.
 
@@ -3572,6 +3980,23 @@ const Places = {
       googleMaps: "https://maps.app.goo.gl/m9m587sTFf83piYR7",
       visitCyprus:
         "https://www.visitcyprus.com/index.php/en/discovercyprus/culture/museums-galleries/162-museum-of-byzantine-heritage-palaichori-village?cur_lang=en-GB",
+      departmentOfAntiquities: "",
+      wikipedia: "",
+      audioGuide: "",
+      site: "",
+      virtualTour: "",
+    },
+  },
+  "Kampos tou Souliou (Souli) Beach": {
+    description: `The beach has fine sands, and clean blue green waters.`,
+    popularity: 3,
+    latitude: 35.04115,
+    longitude: 32.385994,
+    labels: [label.Nature, label.Beach, label.Free],
+    links: {
+      googleMaps: "https://maps.app.goo.gl/qkBc1oVbbYQC93at7",
+      visitCyprus:
+        "https://www.visitcyprus.com/index.php/en/discovercyprus/sun-sea/beaches/272521-kampos-tou-souliou-souli-beach-blue-flag?cur_lang=en-GB",
       departmentOfAntiquities: "",
       wikipedia: "",
       audioGuide: "",
@@ -3784,6 +4209,74 @@ const Places = {
       googleMaps: "https://maps.app.goo.gl/v8jNbGnEbj9NTNsF8",
       visitCyprus:
         "https://www.visitcyprus.com/index.php/en/discovercyprus/culture/museums-galleries/154-basket-weaving-museum-ineia-village?cur_lang=en-GB",
+      departmentOfAntiquities: "",
+      wikipedia: "",
+      audioGuide: "",
+      site: "",
+      virtualTour: "",
+    },
+  },
+  "Aphrodite Beach": {
+    description: `It is quiet and relaxing with a long sandy shore of pebbles and dark grey sands, and a coastal footpath lined with acacias, eucalyptus trees and oleanders.`,
+    popularity: 0,
+    latitude: 34.712818,
+    longitude: 33.158574,
+    labels: [label.Nature, label.Beach, label.Free],
+    links: {
+      googleMaps: "https://maps.app.goo.gl/jiioHwaZBY5QD3ZLA",
+      visitCyprus:
+        "https://www.visitcyprus.com/index.php/en/discovercyprus/sun-sea/beaches/520-aphrodite-beach-blue-flag?cur_lang=en-GB",
+      departmentOfAntiquities: "",
+      wikipedia: "",
+      audioGuide: "",
+      site: "",
+      virtualTour: "",
+    },
+  },
+  "Faros Beach": {
+    description: `The beach boasts deep golden sands and clean seawaters that have a tendency to become wavy.`,
+    popularity: 0,
+    latitude: 34.76449,
+    longitude: 32.40674,
+    labels: [label.Nature, label.Beach, label.Free],
+    links: {
+      googleMaps: "https://maps.app.goo.gl/6U7QAnc4iX2DAV3x9",
+      visitCyprus:
+        "https://www.visitcyprus.com/index.php/en/discovercyprus/sun-sea/beaches/536-faros-beach-pafos-paphos-blue-flag?cur_lang=en-GB",
+      departmentOfAntiquities: "",
+      wikipedia: "",
+      audioGuide: "",
+      site: "",
+      virtualTour: "",
+    },
+  },
+  "Laourou Beach": {
+    description: `A pretty resort beach.`,
+    popularity: 0,
+    latitude: 34.947941,
+    longitude: 32.313164,
+    labels: [label.Nature, label.Beach, label.Free],
+    links: {
+      googleMaps: "https://maps.app.goo.gl/1UFkZQVN4uh8j4Uq8",
+      visitCyprus:
+        "https://www.visitcyprus.com/index.php/en/discovercyprus/sun-sea/beaches/544-laourou-beach-blue-flag?cur_lang=en-GB",
+      departmentOfAntiquities: "",
+      wikipedia: "",
+      audioGuide: "",
+      site: "",
+      virtualTour: "",
+    },
+  },
+  "Louma Beach": {
+    description: `A coastal link to two popular resorts.`,
+    popularity: 0,
+    latitude: 35.04428,
+    longitude: 34.031419,
+    labels: [label.Nature, label.Beach, label.Free],
+    links: {
+      googleMaps: "https://maps.app.goo.gl/EnNzAfnHqz19hGMN7",
+      visitCyprus:
+        "https://www.visitcyprus.com/index.php/en/discovercyprus/sun-sea/beaches/508-louma-beach-blue-flag?cur_lang=en-GB",
       departmentOfAntiquities: "",
       wikipedia: "",
       audioGuide: "",
